@@ -1,0 +1,7 @@
+{
+  "step": 2000,
+  "target_steps": 2000,
+  "reason": "complete",
+  "checkpoint": "runs/optimization-v1/a4-expanded-rules/checkpoint.pt",
+  "time_unix": 1792400933.6263378
+}

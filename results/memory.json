@@ -1,0 +1,192 @@
+[
+  {
+    "run": "memory-1792254408893824489",
+    "command": [
+      "scripts/train_lm.py",
+      "--config",
+      "runs/formal/a1-controller/resolved-config.json"
+    ],
+    "allocator_limit_gib": 42.0,
+    "min_free_gib": 48.0,
+    "peak_allocated_gib": 13.44381332397461,
+    "peak_reserved_gib": 14.29296875,
+    "max_sampled_process_mib": 15314.0,
+    "scope": "single process PyTorch allocator; shared GPU; sampling can miss brief peaks if target resets counters; also inspect per-step metrics"
+  },
+  {
+    "run": "memory-1792254511960971136",
+    "command": [
+      "scripts/train_lm.py",
+      "--config",
+      "runs/formal/a1-controller/resolved-config.json",
+      "--resume",
+      "auto"
+    ],
+    "allocator_limit_gib": 42.0,
+    "min_free_gib": 48.0,
+    "peak_allocated_gib": 13.444698333740234,
+    "peak_reserved_gib": 14.4296875,
+    "max_sampled_process_mib": 15454.0,
+    "scope": "single process PyTorch allocator; shared GPU; sampling can miss brief peaks if target resets counters; also inspect per-step metrics"
+  },
+  {
+    "task": "a4-expanded-raw",
+    "allocator_limit_gib": 42.0,
+    "min_free_gib": 48.0,
+    "peak_allocated_gib": 5.976507186889648,
+    "peak_reserved_gib": 6.349609375,
+    "max_sampled_process_mib": 7180.0,
+    "scope": "single process PyTorch allocator; shared GPU; sampling can miss brief peaks if target resets counters; also inspect per-step metrics",
+    "exit_code": 0
+  },
+  {
+    "task": "a4-expanded-rules",
+    "allocator_limit_gib": 42.0,
+    "min_free_gib": 48.0,
+    "peak_allocated_gib": 5.976507186889648,
+    "peak_reserved_gib": 6.349609375,
+    "max_sampled_process_mib": 7180.0,
+    "scope": "single process PyTorch allocator; shared GPU; sampling can miss brief peaks if target resets counters; also inspect per-step metrics",
+    "exit_code": 0
+  },
+  {
+    "task": "a4-small-random42",
+    "allocator_limit_gib": 42.0,
+    "min_free_gib": 48.0,
+    "peak_allocated_gib": 5.976507186889648,
+    "peak_reserved_gib": 6.349609375,
+    "max_sampled_process_mib": 7180.0,
+    "scope": "single process PyTorch allocator; shared GPU; sampling can miss brief peaks if target resets counters; also inspect per-step metrics",
+    "exit_code": 0
+  },
+  {
+    "task": "a4-small-random43",
+    "allocator_limit_gib": 42.0,
+    "min_free_gib": 48.0,
+    "peak_allocated_gib": 5.976507186889648,
+    "peak_reserved_gib": 6.349609375,
+    "max_sampled_process_mib": 7180.0,
+    "scope": "single process PyTorch allocator; shared GPU; sampling can miss brief peaks if target resets counters; also inspect per-step metrics",
+    "exit_code": 0
+  },
+  {
+    "task": "a4-small-random44",
+    "allocator_limit_gib": 42.0,
+    "min_free_gib": 48.0,
+    "peak_allocated_gib": 5.976507186889648,
+    "peak_reserved_gib": 6.349609375,
+    "max_sampled_process_mib": 7180.0,
+    "scope": "single process PyTorch allocator; shared GPU; sampling can miss brief peaks if target resets counters; also inspect per-step metrics",
+    "exit_code": 0
+  },
+  {
+    "task": "a4-small-ranked",
+    "allocator_limit_gib": 42.0,
+    "min_free_gib": 48.0,
+    "peak_allocated_gib": 5.976507186889648,
+    "peak_reserved_gib": 6.349609375,
+    "max_sampled_process_mib": 7180.0,
+    "scope": "single process PyTorch allocator; shared GPU; sampling can miss brief peaks if target resets counters; also inspect per-step metrics",
+    "exit_code": 0
+  },
+  {
+    "task": "a4-small-raw",
+    "allocator_limit_gib": 42.0,
+    "min_free_gib": 48.0,
+    "peak_allocated_gib": 5.976507186889648,
+    "peak_reserved_gib": 6.349609375,
+    "max_sampled_process_mib": 7180.0,
+    "scope": "single process PyTorch allocator; shared GPU; sampling can miss brief peaks if target resets counters; also inspect per-step metrics",
+    "exit_code": 0
+  },
+  {
+    "task": "a4-small-rules",
+    "allocator_limit_gib": 42.0,
+    "min_free_gib": 48.0,
+    "peak_allocated_gib": 5.976507186889648,
+    "peak_reserved_gib": 6.349609375,
+    "max_sampled_process_mib": 7180.0,
+    "scope": "single process PyTorch allocator; shared GPU; sampling can miss brief peaks if target resets counters; also inspect per-step metrics",
+    "exit_code": 0
+  },
+  {
+    "task": "dpo-lr1e-7",
+    "allocator_limit_gib": 42.0,
+    "min_free_gib": 48.0,
+    "peak_allocated_gib": 34.81298065185547,
+    "peak_reserved_gib": 35.203125,
+    "max_sampled_process_mib": 36728.0,
+    "scope": "single process PyTorch allocator; shared GPU; sampling can miss brief peaks if target resets counters; also inspect per-step metrics",
+    "exit_code": 0
+  },
+  {
+    "task": "dpo-lr3e-7",
+    "allocator_limit_gib": 42.0,
+    "min_free_gib": 48.0,
+    "peak_allocated_gib": 34.807077407836914,
+    "peak_reserved_gib": 35.203125,
+    "max_sampled_process_mib": 36728.0,
+    "scope": "single process PyTorch allocator; shared GPU; sampling can miss brief peaks if target resets counters; also inspect per-step metrics",
+    "exit_code": 0
+  },
+  {
+    "task": "rl-p4g8-kl01",
+    "allocator_limit_gib": 42.0,
+    "min_free_gib": 48.0,
+    "peak_allocated_gib": 29.700851440429688,
+    "peak_reserved_gib": 31.572265625,
+    "max_sampled_process_mib": 33010.0,
+    "scope": "single process PyTorch allocator; shared GPU; sampling can miss brief peaks if target resets counters; also inspect per-step metrics",
+    "exit_code": 0
+  },
+  {
+    "task": "rl-p8g4-kl0",
+    "allocator_limit_gib": 42.0,
+    "min_free_gib": 48.0,
+    "peak_allocated_gib": 24.264814376831055,
+    "peak_reserved_gib": 27.029296875,
+    "max_sampled_process_mib": 28358.0,
+    "scope": "single process PyTorch allocator; shared GPU; sampling can miss brief peaks if target resets counters; also inspect per-step metrics",
+    "exit_code": 0
+  },
+  {
+    "task": "rl-p8g4-kl001",
+    "allocator_limit_gib": 42.0,
+    "min_free_gib": 48.0,
+    "peak_allocated_gib": 29.747963905334473,
+    "peak_reserved_gib": 32.572265625,
+    "max_sampled_process_mib": 34034.0,
+    "scope": "single process PyTorch allocator; shared GPU; sampling can miss brief peaks if target resets counters; also inspect per-step metrics",
+    "exit_code": 0
+  },
+  {
+    "task": "rl-p8g4-kl01",
+    "allocator_limit_gib": 42.0,
+    "min_free_gib": 48.0,
+    "peak_allocated_gib": 29.776680946350098,
+    "peak_reserved_gib": 32.572265625,
+    "max_sampled_process_mib": 34034.0,
+    "scope": "single process PyTorch allocator; shared GPU; sampling can miss brief peaks if target resets counters; also inspect per-step metrics",
+    "exit_code": 0
+  },
+  {
+    "task": "sft-lr1e-5",
+    "allocator_limit_gib": 42.0,
+    "min_free_gib": 48.0,
+    "peak_allocated_gib": 23.67412233352661,
+    "peak_reserved_gib": 24.619140625,
+    "max_sampled_process_mib": 25890.0,
+    "scope": "single process PyTorch allocator; shared GPU; sampling can miss brief peaks if target resets counters; also inspect per-step metrics",
+    "exit_code": 0
+  },
+  {
+    "task": "sft-lr5e-6",
+    "allocator_limit_gib": 42.0,
+    "min_free_gib": 48.0,
+    "peak_allocated_gib": 23.67412233352661,
+    "peak_reserved_gib": 24.619140625,
+    "max_sampled_process_mib": 25890.0,
+    "scope": "single process PyTorch allocator; shared GPU; sampling can miss brief peaks if target resets counters; also inspect per-step metrics",
+    "exit_code": 0
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "settings": {
+    "impl": "sdpa",
+    "device": "cuda",
+    "lengths": [
+      256,
+      1024,
+      4096
+    ],
+    "head_dim": 64,
+    "batch": 4,
+    "repeats": 30,
+    "warmup": 10,
+    "causal": true,
+    "backward": false,
+    "compile": false,
+    "bf16": true,
+    "output": "runs/formal/remaining/a2/a2-sdpa-d64-fwd.json",
+    "sdpa_backend": "flash"
+  },
+  "torch": "2.11.0+cu130",
+  "device_name": "NVIDIA RTX PRO 6000 Blackwell Server Edition",
+  "results": [
+    {
+      "sequence_length": 256,
+      "median_ms": 0.010592000093311071,
+      "mean_ms": 0.01052906671538949,
+      "stdev_ms": 0.00030059606869367264,
+      "peak_allocated_bytes": 529408
+    },
+    {
+      "sequence_length": 1024,
+      "median_ms": 0.012799999676644802,
+      "mean_ms": 0.013036800020684799,
+      "stdev_ms": 0.0007839087887393547,
+      "peak_allocated_bytes": 6374400
+    },
+    {
+      "sequence_length": 4096,
+      "median_ms": 0.057920001447200775,
+      "mean_ms": 0.058116266628106435,
+      "stdev_ms": 0.0007520991711667069,
+      "peak_allocated_bytes": 25494528
+    }
+  ]
+}

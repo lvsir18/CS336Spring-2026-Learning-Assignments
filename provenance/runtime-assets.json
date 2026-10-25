@@ -1,0 +1,30 @@
+{
+  "files": [
+    {
+      "url": "https://raw.githubusercontent.com/stanford-cs336/assignment1-basics/main/tests/fixtures/gpt2_vocab.json",
+      "path": "assets/gpt2/gpt2_vocab.json",
+      "sha256": "196139668be63f3b5d6574427317ae82f612a97c5d1cdaf36ed2256dbf636783"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/stanford-cs336/assignment1-basics/main/tests/fixtures/gpt2_merges.txt",
+      "path": "assets/gpt2/gpt2_merges.txt",
+      "sha256": "ac33235097fe06d4a8fff0feac994644809e6eb6ab70669e1e9fd40ae032428e"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/stanford-cs336/assignment5-alignment/c2734a26308710949fe13226960a1e8cece94b7e/cs336_alignment/prompts/question_only.prompt",
+      "path": "src/cs336_alignment/prompts/question_only.prompt",
+      "sha256": "bff41d4d354078f7c7adde76fabf70c086aa54a29fd4fb0e15a8f32b3ed27501"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/stanford-cs336/assignment5-alignment/c2734a26308710949fe13226960a1e8cece94b7e/cs336_alignment/prompts/r1_zero.prompt",
+      "path": "src/cs336_alignment/prompts/r1_zero.prompt",
+      "sha256": "56213732da87e12ace60a2b88a16df0af18280fb0563a957cbecc938a6a2ac0e"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/stanford-cs336/assignment5-alignment/c2734a26308710949fe13226960a1e8cece94b7e/cs336_alignment/prompts/r1_zero_three_shot_gsm8k.prompt",
+      "path": "src/cs336_alignment/prompts/r1_zero_three_shot_gsm8k.prompt",
+      "sha256": "91788d4fb0e8d81ec17066dc122572f02a6d2ec3ed762174c7b70fcf5fdf6193"
+    }
+  ],
+  "policy": "Download only runtime assets; verify SHA256. No upstream tests are fetched or published."
+}

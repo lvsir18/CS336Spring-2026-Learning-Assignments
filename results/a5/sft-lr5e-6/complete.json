@@ -1,0 +1,12 @@
+{
+  "step": 1805,
+  "method": "sft",
+  "time_unix": 1792409003.6501417,
+  "exported_step": 1350,
+  "selection": {
+    "step": 1350,
+    "value": 0.35546875,
+    "file": "best-step-1350.pt",
+    "bad_evaluations": 2
+  }
+}

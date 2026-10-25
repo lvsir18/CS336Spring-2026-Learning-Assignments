@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "config": "runs/formal/remaining/configs/a2-cpu.json",
+    "method": "fsdp",
+    "backend": "gloo",
+    "cpu_workers": 2,
+    "port": 29644,
+    "bf16": false,
+    "warmup": 2,
+    "repeats": 5,
+    "output": "runs/formal/remaining/a2/gloo-fsdp.json"
+  },
+  "world_size": 2,
+  "torch": "2.11.0+cu130",
+  "all_seconds_max_rank": [
+    0.03653242439031601,
+    0.03568010404706001,
+    0.045405495911836624,
+    0.03520401567220688,
+    0.034394219517707825
+  ],
+  "median_seconds": 0.03568010404706001,
+  "global_tokens_per_second": 7174.866969624042,
+  "max_rank_peak_allocated_bytes": 0,
+  "dataset": "synthetic tensors; no data IO; reference equivalence checked separately"
+}

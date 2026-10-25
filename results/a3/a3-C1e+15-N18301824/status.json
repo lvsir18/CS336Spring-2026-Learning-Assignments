@@ -1,0 +1,7 @@
+{
+  "step": 277,
+  "target_steps": 277,
+  "reason": "complete",
+  "checkpoint": "runs/formal/remaining/a3/a3-C1e+15-N18301824/checkpoint.pt",
+  "time_unix": 1792301814.0319183
+}

@@ -1,0 +1,23 @@
+{
+  "seed": 42,
+  "output_dir": "runs/formal/a1-tinystories-seed42",
+  "train_tokens": "data/tinystories/train.bin",
+  "val_tokens": "data/tinystories/val.bin",
+  "model": {"vocab_size": 10000, "context_length": 256, "d_model": 512, "num_layers": 4, "num_heads": 16, "d_ff": 1344},
+  "lr": 0.001,
+  "min_lr": 0.0001,
+  "warmup_steps": 200,
+  "steps": 5000,
+  "micro_batch_size": 128,
+  "gradient_accumulation_steps": 2,
+  "eval_every": 100,
+  "eval_batch_size": 32,
+  "eval_batches": 64,
+  "checkpoint_every": 50,
+  "checkpoint_minutes": 10,
+  "log_every": 10,
+  "bf16": true,
+  "max_grad_norm": 1.0,
+  "cpu_threads": 4,
+  "weight_decay": 0.1
+}

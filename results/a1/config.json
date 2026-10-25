@@ -1,0 +1,38 @@
+{
+  "seed": 42,
+  "output_dir": "runs/formal/a1-tinystories-seed42",
+  "train_tokens": "data/tinystories/train.bin",
+  "val_tokens": "data/tinystories/val.bin",
+  "model": {
+    "vocab_size": 10000,
+    "context_length": 256,
+    "d_model": 512,
+    "num_layers": 4,
+    "num_heads": 16,
+    "d_ff": 1344
+  },
+  "lr": 0.001,
+  "min_lr": 0.0001,
+  "warmup_steps": 200,
+  "steps": 5000,
+  "micro_batch_size": 128,
+  "gradient_accumulation_steps": 2,
+  "eval_every": 100,
+  "eval_batch_size": 32,
+  "eval_batches": 64,
+  "checkpoint_every": 50,
+  "checkpoint_minutes": 10,
+  "log_every": 10,
+  "bf16": true,
+  "max_grad_norm": 1.0,
+  "cpu_threads": 4,
+  "weight_decay": 0.1,
+  "data_identity": {
+    "manifest_sha256": "aaf421bbed24ca16c8a2b7148e0ee30d87c93cecc703d4e821d4031278856564",
+    "tokenizer": "9570c53386904e85bffbce70e6d71a5095e54d78ea5fb33983b44b751306403e",
+    "train": "c8a878e9e76e47a74d6df08ffa159d0bafb34b351fe41eaa37915fa3780f8db5",
+    "val": "40d0e915ead91d1bc18cb214a3fe6e30943f51acc78c12e4fa924f0de0a600f3",
+    "train_metadata_sha256": "a9efbaa1bfaaf42b7bffd3ba083e67c270244fe4d3b405df6b8ba19e40d05296",
+    "val_metadata_sha256": "c9e1e005251db24ace29f036498e6f181321dc1c77cdd8e517a0db1649c36ca2"
+  }
+}

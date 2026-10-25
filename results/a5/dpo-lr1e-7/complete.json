@@ -1,0 +1,12 @@
+{
+  "step": 250,
+  "method": "dpo",
+  "time_unix": 1792429547.9307628,
+  "exported_step": 125,
+  "selection": {
+    "step": 125,
+    "value": 0.32421875,
+    "file": "best-step-125.pt",
+    "bad_evaluations": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "seed": 42,
+  "architecture": "a4_reference",
+  "model": {
+    "vocab_size": 50257,
+    "context_length": 512,
+    "d_model": 512,
+    "num_layers": 8,
+    "num_heads": 8,
+    "d_ff": 1536,
+    "rope_theta": 10000.0
+  },
+  "lr": 0.0006,
+  "min_lr": 6e-05,
+  "micro_batch_size": 8,
+  "gradient_accumulation_steps": 8,
+  "eval_batch_size": 8,
+  "bf16": true,
+  "track_best": true,
+  "validation_mode": "sequential",
+  "checkpoint_minutes": 15,
+  "log_every": 10,
+  "train_tokens": "data/optimization-v1/a4-expanded/raw.bin",
+  "val_tokens": "data/optimization-v1/a4-expanded/val.bin",
+  "steps": 2000,
+  "warmup_steps": 60,
+  "eval_every": 100,
+  "checkpoint_every": 100,
+  "early_stopping_patience": 5,
+  "output_dir": "runs/optimization-v1/a4-expanded-raw",
+  "data_identity": {
+    "train_tokens": "99b2c8079a2fe3360c89a1e76ae0394bb573550b213d006adeccc3b098ba9e4a",
+    "val_tokens": "1a23e206be110c97603748962619e50b1c14c8200cf906e1c60afc5f4048d3b1"
+  }
+}

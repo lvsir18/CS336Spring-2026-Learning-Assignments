@@ -1,0 +1,41 @@
+{
+  "measurements": {
+    "raw": {
+      "step": 600,
+      "value": 5.499181306657832,
+      "file": "best-step-600.pt",
+      "bad_evaluations": 0
+    },
+    "rules": {
+      "step": 600,
+      "value": 5.510006091699987,
+      "file": "best-step-600.pt",
+      "bad_evaluations": 0
+    },
+    "random42": {
+      "step": 400,
+      "value": 5.885020672589883,
+      "file": "best-step-400.pt",
+      "bad_evaluations": 0
+    },
+    "random43": {
+      "step": 450,
+      "value": 5.848681404023767,
+      "file": "best-step-450.pt",
+      "bad_evaluations": 0
+    },
+    "random44": {
+      "step": 400,
+      "value": 5.8707937510606385,
+      "file": "best-step-400.pt",
+      "bad_evaluations": 0
+    },
+    "ranked": {
+      "step": 400,
+      "value": 5.98177075112003,
+      "file": "best-step-400.pt",
+      "bad_evaluations": 0
+    }
+  },
+  "interpretation": "fixed 600 update budget; matched token quantity for ranked/random; whole frozen validation stream"
+}

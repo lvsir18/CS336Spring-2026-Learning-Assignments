@@ -1,0 +1,14 @@
+{
+  "pairs": 1000,
+  "target_met": true,
+  "sha256": "a2d7d7d0b1cdfde1477518956cd3cb8782fb83c79f7a2fd31b633836a16be696",
+  "model": "runs/optimization-v1/sft-lr5e-6/model",
+  "identity": {
+    "selection_sha256": "1a966598d53ef88b27555f4be8025c4e3608961e38d37c457cf9d8d9e2ba6340",
+    "train_sha256": "cad8743528ef060a95b85dd9053c423acc35722072ef10b91b89a7523841f096",
+    "target": 1000,
+    "max_questions": 2048,
+    "seed": 42
+  },
+  "scope": "train questions only; no validation/test generation used for pair selection; minimum 200 verified pairs"
+}

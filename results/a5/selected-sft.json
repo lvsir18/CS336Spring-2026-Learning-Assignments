@@ -1,0 +1,22 @@
+{
+  "family": "sft",
+  "winner": {
+    "run": "sft-lr5e-6",
+    "score": 0.35546875,
+    "step": 1350
+  },
+  "model": "runs/optimization-v1/sft-lr5e-6/model",
+  "candidates": [
+    {
+      "run": "sft-lr5e-6",
+      "score": 0.35546875,
+      "step": 1350
+    },
+    {
+      "run": "sft-lr1e-5",
+      "score": 0.3359375,
+      "step": 1350
+    }
+  ],
+  "selection": "strict reward on full 256 validation questions; ties favor first planned configuration"
+}

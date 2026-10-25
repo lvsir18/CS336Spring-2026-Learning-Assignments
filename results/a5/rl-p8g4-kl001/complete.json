@@ -1,0 +1,12 @@
+{
+  "step": 200,
+  "method": "rl",
+  "time_unix": 1792459310.2434473,
+  "exported_step": 150,
+  "selection": {
+    "step": 150,
+    "value": 0.4453125,
+    "file": "best-step-150.pt",
+    "bad_evaluations": 1
+  }
+}

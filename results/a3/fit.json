@@ -1,0 +1,52 @@
+{
+  "fit": {
+    "a": 0.34663269042096007,
+    "b": 0.6533673095790511,
+    "k_n": 46.19081084605771,
+    "k_d": 0.0036082212806796956,
+    "minima": [
+      {
+        "compute_budget": 1000000000000000.0,
+        "parameters": 8333568.0,
+        "tokens": 19999436.815859266,
+        "loss": 2.4090398252010345
+      },
+      {
+        "compute_budget": 3000000000000000.0,
+        "parameters": 8333568.0,
+        "tokens": 59998310.4475778,
+        "loss": 1.929628074169159
+      },
+      {
+        "compute_budget": 1e+16,
+        "parameters": 18301824.0,
+        "tokens": 91065604.53573735,
+        "loss": 1.5908654071390629
+      }
+    ]
+  },
+  "loss_surface": {
+    "E": 0.4777633336351231,
+    "A": 3830.2882643261573,
+    "B": 1213.8920388041379,
+    "alpha": 0.5371094016556456,
+    "beta": 0.4136543825923736,
+    "log_residual_rmse": 0.009265009328401592,
+    "converged": true
+  },
+  "boundary_minima": [
+    {
+      "compute_budget": 1000000000000000.0,
+      "parameters": 8333568.0,
+      "tokens": 19999436.815859266,
+      "loss": 2.4090398252010345
+    },
+    {
+      "compute_budget": 3000000000000000.0,
+      "parameters": 8333568.0,
+      "tokens": 59998310.4475778,
+      "loss": 1.929628074169159
+    }
+  ],
+  "scope": "local estimated IsoFLOPs with integer steps; not official B200 API; boundary minima require expanding model grid"
+}

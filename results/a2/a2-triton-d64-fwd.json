@@ -1,0 +1,46 @@
+{
+  "settings": {
+    "impl": "triton",
+    "device": "cuda",
+    "lengths": [
+      256,
+      1024,
+      4096
+    ],
+    "head_dim": 64,
+    "batch": 4,
+    "repeats": 30,
+    "warmup": 10,
+    "causal": true,
+    "backward": false,
+    "compile": false,
+    "bf16": true,
+    "output": "runs/formal/remaining/a2/a2-triton-d64-fwd.json",
+    "sdpa_backend": "auto"
+  },
+  "torch": "2.11.0+cu130",
+  "device_name": "NVIDIA RTX PRO 6000 Blackwell Server Edition",
+  "results": [
+    {
+      "sequence_length": 256,
+      "median_ms": 0.008080000057816505,
+      "mean_ms": 0.014174933219328523,
+      "stdev_ms": 0.03513522706978456,
+      "peak_allocated_bytes": 528384
+    },
+    {
+      "sequence_length": 1024,
+      "median_ms": 0.024831999093294144,
+      "mean_ms": 0.024806399829685688,
+      "stdev_ms": 0.0005512796087485735,
+      "peak_allocated_bytes": 2113536
+    },
+    {
+      "sequence_length": 4096,
+      "median_ms": 0.15191999822854996,
+      "mean_ms": 0.1591498667995135,
+      "stdev_ms": 0.011836159322285905,
+      "peak_allocated_bytes": 8454144
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "family": "dpo",
+  "winner": {
+    "run": "dpo-lr1e-7",
+    "score": 0.32421875,
+    "step": 125
+  },
+  "model": "runs/optimization-v1/dpo-lr1e-7/model",
+  "candidates": [
+    {
+      "run": "dpo-lr1e-7",
+      "score": 0.32421875,
+      "step": 125
+    },
+    {
+      "run": "dpo-lr3e-7",
+      "score": 0.3125,
+      "step": 250
+    }
+  ],
+  "selection": "strict reward on full 256 validation questions; ties favor first planned configuration"
+}

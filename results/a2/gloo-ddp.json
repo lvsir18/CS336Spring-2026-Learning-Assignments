@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "config": "runs/formal/remaining/configs/a2-cpu.json",
+    "method": "ddp",
+    "backend": "gloo",
+    "cpu_workers": 2,
+    "port": 29642,
+    "bf16": false,
+    "warmup": 2,
+    "repeats": 5,
+    "output": "runs/formal/remaining/a2/gloo-ddp.json"
+  },
+  "world_size": 2,
+  "torch": "2.11.0+cu130",
+  "all_seconds_max_rank": [
+    0.012275127694010735,
+    0.011857233941555023,
+    0.011245781555771828,
+    0.010606790892779827,
+    0.010223904624581337
+  ],
+  "median_seconds": 0.011245781555771828,
+  "global_tokens_per_second": 22764.091471135645,
+  "max_rank_peak_allocated_bytes": 0,
+  "dataset": "synthetic tensors; no data IO; reference equivalence checked separately"
+}

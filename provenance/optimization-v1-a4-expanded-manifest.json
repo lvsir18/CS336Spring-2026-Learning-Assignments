@@ -1,0 +1,200 @@
+{
+  "tokens": {
+    "raw": 110846445,
+    "rules": 103273752
+  },
+  "documents": {
+    "raw": 72883,
+    "rules": 66431
+  },
+  "shards": [
+    {
+      "source": "crawl-data/CC-MAIN-2026-12/segments/1772687277315.92/wet/CC-MAIN-20260305162732-20260305192732-00814.warc.wet.gz",
+      "download": {
+        "path": "data/optimization-v1/a4-expanded/downloads/000.wet.gz",
+        "url": "https://data.commoncrawl.org/crawl-data/CC-MAIN-2026-12/segments/1772687277315.92/wet/CC-MAIN-20260305162732-20260305192732-00814.warc.wet.gz",
+        "bytes": 61491556,
+        "sha256": "17ec175ce0305173a613d748fad2494c8755361b6f6175df31f9a07061dbfc5a"
+      },
+      "scanned": 19318,
+      "english_train": 5058,
+      "cache_sha256": "ea0898813994612c0fa0b60e446641963970225a87d81dfa09d82c3d4bbeabe0"
+    },
+    {
+      "source": "crawl-data/CC-MAIN-2026-12/segments/1772687278033.56/wet/CC-MAIN-20260311121858-20260311151858-00420.warc.wet.gz",
+      "download": {
+        "path": "data/optimization-v1/a4-expanded/downloads/001.wet.gz",
+        "url": "https://data.commoncrawl.org/crawl-data/CC-MAIN-2026-12/segments/1772687278033.56/wet/CC-MAIN-20260311121858-20260311151858-00420.warc.wet.gz",
+        "bytes": 62752631,
+        "sha256": "7acbf660f643771930a47b17f6dfd408a33b0b7841da6a415323ca20295c021a"
+      },
+      "scanned": 19391,
+      "english_train": 4921,
+      "cache_sha256": "aa57908467c31f210e1793214ff828a24837633b377b6747eae50c6d2023e5d3"
+    },
+    {
+      "source": "crawl-data/CC-MAIN-2026-12/segments/1772687277888.98/wet/CC-MAIN-20260310180006-20260310210006-00388.warc.wet.gz",
+      "download": {
+        "path": "data/optimization-v1/a4-expanded/downloads/002.wet.gz",
+        "url": "https://data.commoncrawl.org/crawl-data/CC-MAIN-2026-12/segments/1772687277888.98/wet/CC-MAIN-20260310180006-20260310210006-00388.warc.wet.gz",
+        "bytes": 61532990,
+        "sha256": "fd7f008f126c08d642071ed8fdd555c9a3db197cbeef655b894bdc0d61b7db76"
+      },
+      "scanned": 19117,
+      "english_train": 4837,
+      "cache_sha256": "176c73ed218a73dc5434630463270e0c0d141c916f70f1e1ec7073f426add2e3"
+    },
+    {
+      "source": "crawl-data/CC-MAIN-2026-12/segments/1772687277767.33/wet/CC-MAIN-20260309171837-20260309201837-00077.warc.wet.gz",
+      "download": {
+        "path": "data/optimization-v1/a4-expanded/downloads/003.wet.gz",
+        "url": "https://data.commoncrawl.org/crawl-data/CC-MAIN-2026-12/segments/1772687277767.33/wet/CC-MAIN-20260309171837-20260309201837-00077.warc.wet.gz",
+        "bytes": 60899939,
+        "sha256": "56cb23ed1c2c0487d432c572e8cf09b397d86bead0c345280886c3628ab9c950"
+      },
+      "scanned": 19121,
+      "english_train": 4815,
+      "cache_sha256": "8dc1a40ef7f4feecf3ff4f89a3b3fad55e172251ffa7b1a00e18babc7d7d3dd2"
+    },
+    {
+      "source": "crawl-data/CC-MAIN-2026-12/segments/1772687278388.25/wet/CC-MAIN-20260313040106-20260313070106-00953.warc.wet.gz",
+      "download": {
+        "path": "data/optimization-v1/a4-expanded/downloads/004.wet.gz",
+        "url": "https://data.commoncrawl.org/crawl-data/CC-MAIN-2026-12/segments/1772687278388.25/wet/CC-MAIN-20260313040106-20260313070106-00953.warc.wet.gz",
+        "bytes": 59744157,
+        "sha256": "57972e1d31844591829525fc2d42c208030ba38921c97cd0548325db5b071627"
+      },
+      "scanned": 19248,
+      "english_train": 4897,
+      "cache_sha256": "6e157e1f85149257faba8f42f54a034dc191ffc4924a7d610be2ede6531e8e1f"
+    },
+    {
+      "source": "crawl-data/CC-MAIN-2026-12/segments/1772687278232.39/wet/CC-MAIN-20260312094730-20260312124730-00912.warc.wet.gz",
+      "download": {
+        "path": "data/optimization-v1/a4-expanded/downloads/005.wet.gz",
+        "url": "https://data.commoncrawl.org/crawl-data/CC-MAIN-2026-12/segments/1772687278232.39/wet/CC-MAIN-20260312094730-20260312124730-00912.warc.wet.gz",
+        "bytes": 60965074,
+        "sha256": "8bad1e352f60af472be07a3fa785b0553bfbc39c4119eda7577a62edb3e80d4e"
+      },
+      "scanned": 18880,
+      "english_train": 4852,
+      "cache_sha256": "b139bc2aaf5f32f35552e9d3627df8346d7756cbe36f298409b560f7c92af220"
+    },
+    {
+      "source": "crawl-data/CC-MAIN-2026-12/segments/1772687552035.91/wet/CC-MAIN-20260315193729-20260315223729-00851.warc.wet.gz",
+      "download": {
+        "path": "data/optimization-v1/a4-expanded/downloads/006.wet.gz",
+        "url": "https://data.commoncrawl.org/crawl-data/CC-MAIN-2026-12/segments/1772687552035.91/wet/CC-MAIN-20260315193729-20260315223729-00851.warc.wet.gz",
+        "bytes": 62142815,
+        "sha256": "18c1a3455915a499ba4d124efd126091a587a30cf5582b70c6e29c90f4ec7e43"
+      },
+      "scanned": 19385,
+      "english_train": 4935,
+      "cache_sha256": "53e81ce871a9eb392b0bf9c84b6756eb0e74dc61c7f67d73759c01c58f560049"
+    },
+    {
+      "source": "crawl-data/CC-MAIN-2026-12/segments/1772687556954.99/wet/CC-MAIN-20260316170135-20260316200135-00772.warc.wet.gz",
+      "download": {
+        "path": "data/optimization-v1/a4-expanded/downloads/007.wet.gz",
+        "url": "https://data.commoncrawl.org/crawl-data/CC-MAIN-2026-12/segments/1772687556954.99/wet/CC-MAIN-20260316170135-20260316200135-00772.warc.wet.gz",
+        "bytes": 61515367,
+        "sha256": "bcc939ff7e3c759e04d94cde28f5bb8fe8a578abcb61b24c4f66ed8679de7335"
+      },
+      "scanned": 18994,
+      "english_train": 4946,
+      "cache_sha256": "875e7adbe74e8a1a597780f0d69cdbb812f09228dbba18dd1a1a0e24bc53353b"
+    },
+    {
+      "source": "crawl-data/CC-MAIN-2026-12/segments/1772687559862.94/wet/CC-MAIN-20260317112635-20260317142635-00443.warc.wet.gz",
+      "download": {
+        "path": "data/optimization-v1/a4-expanded/downloads/008.wet.gz",
+        "url": "https://data.commoncrawl.org/crawl-data/CC-MAIN-2026-12/segments/1772687559862.94/wet/CC-MAIN-20260317112635-20260317142635-00443.warc.wet.gz",
+        "bytes": 61486572,
+        "sha256": "81ab2c1b0a6ff21195a148050e5b780b9ae5bfd5bc98195179daa4ca66168c46"
+      },
+      "scanned": 19026,
+      "english_train": 4836,
+      "cache_sha256": "ac1bdd2d0215727e3cd98756fe19e482873c50a12c2dd130ed54eee93a286120"
+    },
+    {
+      "source": "crawl-data/CC-MAIN-2026-12/segments/1772687277126.19/wet/CC-MAIN-20260305101436-20260305131436-00327.warc.wet.gz",
+      "download": {
+        "path": "data/optimization-v1/a4-expanded/downloads/009.wet.gz",
+        "url": "https://data.commoncrawl.org/crawl-data/CC-MAIN-2026-12/segments/1772687277126.19/wet/CC-MAIN-20260305101436-20260305131436-00327.warc.wet.gz",
+        "bytes": 65517373,
+        "sha256": "be8a48d04f2a4514265b51123f6869710ff564fc09afdbedf4c852b4a3163366"
+      },
+      "scanned": 19544,
+      "english_train": 5073,
+      "cache_sha256": "a4c354964143532cb5ff4d2bda459eea1dd6cbfd55bfa83e8c1f5a879ea1c87b"
+    },
+    {
+      "source": "crawl-data/CC-MAIN-2026-12/segments/1772687277833.29/wet/CC-MAIN-20260310115014-20260310145014-00224.warc.wet.gz",
+      "download": {
+        "path": "data/optimization-v1/a4-expanded/downloads/010.wet.gz",
+        "url": "https://data.commoncrawl.org/crawl-data/CC-MAIN-2026-12/segments/1772687277833.29/wet/CC-MAIN-20260310115014-20260310145014-00224.warc.wet.gz",
+        "bytes": 63737333,
+        "sha256": "48473d20cd24ea688de2dbb87b597750f9caee7b1a1d9a39ef1024436774c1aa"
+      },
+      "scanned": 19366,
+      "english_train": 5065,
+      "cache_sha256": "ab07a0f56ae2fc303be5a4febe05c119ef9bd26bcc1fce3d07eba8ba1a5690f8"
+    },
+    {
+      "source": "crawl-data/CC-MAIN-2026-12/segments/1772687548524.64/wet/CC-MAIN-20260315072004-20260315102004-00243.warc.wet.gz",
+      "download": {
+        "path": "data/optimization-v1/a4-expanded/downloads/011.wet.gz",
+        "url": "https://data.commoncrawl.org/crawl-data/CC-MAIN-2026-12/segments/1772687548524.64/wet/CC-MAIN-20260315072004-20260315102004-00243.warc.wet.gz",
+        "bytes": 63878045,
+        "sha256": "e9d0ea64e8f954d855a9088822a02f9b49ea28afd226a7776c71baa85553441e"
+      },
+      "scanned": 19354,
+      "english_train": 5002,
+      "cache_sha256": "db082ffd25e9f78c803aeb39ac6e6def5696f4d3d53ebf5bc907ad29d900870d"
+    },
+    {
+      "source": "crawl-data/CC-MAIN-2026-12/segments/1772687278840.31/wet/CC-MAIN-20260313222754-20260314012754-00805.warc.wet.gz",
+      "download": {
+        "path": "data/optimization-v1/a4-expanded/downloads/012.wet.gz",
+        "url": "https://data.commoncrawl.org/crawl-data/CC-MAIN-2026-12/segments/1772687278840.31/wet/CC-MAIN-20260313222754-20260314012754-00805.warc.wet.gz",
+        "bytes": 60546307,
+        "sha256": "9184983ac6b9434a38bc508e1b0b94ff07f7e03dd57bc36c2b862a31ba647ef9"
+      },
+      "scanned": 19073,
+      "english_train": 4758,
+      "cache_sha256": "e7ab030f19ffebc0bcb3bb44faa11f22a57f7776f8eb2c4aa66389bd1817224d"
+    },
+    {
+      "source": "crawl-data/CC-MAIN-2026-12/segments/1772687556992.89/wet/CC-MAIN-20260316200809-20260316230809-00263.warc.wet.gz",
+      "download": {
+        "path": "data/optimization-v1/a4-expanded/downloads/013.wet.gz",
+        "url": "https://data.commoncrawl.org/crawl-data/CC-MAIN-2026-12/segments/1772687556992.89/wet/CC-MAIN-20260316200809-20260316230809-00263.warc.wet.gz",
+        "bytes": 59540391,
+        "sha256": "4e8e77dcd78a29b7e866201199e4a0fab1bc9b075578762e4e1fc28120bfefd4"
+      },
+      "scanned": 18954,
+      "english_train": 4925,
+      "cache_sha256": "8f5a0434ef1cea83b10c036042bd7bc0775dea2ad1c2c7842b663ffa930e7abf"
+    },
+    {
+      "source": "crawl-data/CC-MAIN-2026-12/segments/1772687278411.59/wet/CC-MAIN-20260313070635-20260313100635-00755.warc.wet.gz",
+      "download": {
+        "path": "data/optimization-v1/a4-expanded/downloads/014.wet.gz",
+        "url": "https://data.commoncrawl.org/crawl-data/CC-MAIN-2026-12/segments/1772687278411.59/wet/CC-MAIN-20260313070635-20260313100635-00755.warc.wet.gz",
+        "bytes": 62240415,
+        "sha256": "edf25625c851257ed7213a0e6a1c17e6e259cf058295763b7b3dc074f2534395"
+      },
+      "scanned": 19186,
+      "english_train": 4886,
+      "cache_sha256": "f8d21151102b797cdd1d55690053ff331a520cb6cb4a7dd8dfa337ba130eefac"
+    }
+  ],
+  "sha256": {
+    "raw": "99b2c8079a2fe3360c89a1e76ae0394bb573550b213d006adeccc3b098ba9e4a",
+    "rules": "0d193c418e4f18491d7da1e2afc3b3cf5fbf5bdb8ec708b46460f77661fd320c",
+    "val": "1a23e206be110c97603748962619e50b1c14c8200cf906e1c60afc5f4048d3b1"
+  },
+  "selection": "language/exact token-document dedup; rules arm adds readability and NSFW/toxic filters, no Wiki ranking",
+  "scope": "WET multi-shard; max 200000 characters/8192 GPT2 tokens per document in both arms; uniform PII masking",
+  "validation": "same frozen held-out host set as small ablations; additional normalized-host hash exclusion; not registrable-domain isolation"
+}

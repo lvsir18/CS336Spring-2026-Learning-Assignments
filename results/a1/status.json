@@ -1,0 +1,7 @@
+{
+  "step": 5000,
+  "target_steps": 5000,
+  "reason": "complete",
+  "checkpoint": "runs/formal/a1-tinystories-seed42/checkpoint.pt",
+  "time_unix": 1792258562.3270957
+}

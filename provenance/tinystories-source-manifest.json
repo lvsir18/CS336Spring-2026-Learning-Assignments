@@ -1,0 +1,19 @@
+{
+  "dataset": "roneneldan/TinyStories",
+  "revision": "f54c09fd23315a6f9c86f9dc80f725de7d8f9c64",
+  "endpoint": "https://hf-mirror.com",
+  "sources": {
+    "train": {
+      "path": "data/tinystories/source/train.txt",
+      "bytes": 2227753162,
+      "sha256": "6418d412de72888f52b5142c761ac21a582f7d1166f0bfbdb5f03ccfdec90443",
+      "official_url": "https://huggingface.co/datasets/roneneldan/TinyStories/resolve/f54c09fd23315a6f9c86f9dc80f725de7d8f9c64/TinyStoriesV2-GPT4-train.txt"
+    },
+    "val": {
+      "path": "data/tinystories/source/val.txt",
+      "bytes": 22502601,
+      "sha256": "6874bae9a4c1a4e7edcf0e53b86c17817e9cf881fc75ff2368da457b80c0585d",
+      "official_url": "https://huggingface.co/datasets/roneneldan/TinyStories/resolve/f54c09fd23315a6f9c86f9dc80f725de7d8f9c64/TinyStoriesV2-GPT4-valid.txt"
+    }
+  }
+}

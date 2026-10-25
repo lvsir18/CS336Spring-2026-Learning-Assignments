@@ -1,0 +1,20 @@
+{
+  "source": "openai/gsm8k public main parquet",
+  "seed": 42,
+  "counts": {
+    "train": 7217,
+    "val": 256,
+    "test": 1319,
+    "sft": 7217,
+    "dpo": 7217
+  },
+  "overlength_sft_excluded": 0,
+  "sha256": {
+    "test.jsonl": "65e22f93e0e90f82df65ffb75655e9a7ebca54ce2317c5609f30206b99e22457",
+    "sft.jsonl": "d3bbaa07a6cb791db41474be024815267fc70c40c6e5ea867bed8e9c614310c0",
+    "dpo.jsonl": "6c8f92b08c7ffce97f3a89b9969ea489267808311a506fb7255b2d96bbdfb166",
+    "train.jsonl": "cad8743528ef060a95b85dd9053c423acc35722072ef10b91b89a7523841f096",
+    "val.jsonl": "8591cb80dc97145129e539aac12da3fc0607d7ffacd3c86e35838ea960b71850"
+  },
+  "dpo": "synthetically constructed math consistency preferences, separate from RL branch"
+}

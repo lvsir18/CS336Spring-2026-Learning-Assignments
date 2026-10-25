@@ -1,0 +1,101 @@
+[
+  {
+    "id": "a3-C1e+15-N8333568",
+    "compute_budget": 1000000000000000.0,
+    "parameters": 8333568,
+    "steps": 610,
+    "tokens": 19988480,
+    "actual_flops": 999452143779840,
+    "output_dir": "runs/formal/remaining/a3/a3-C1e+15-N8333568",
+    "final_loss": 2.4090398252010345,
+    "train_seconds": 92.25769840739667
+  },
+  {
+    "id": "a3-C1e+15-N18301824",
+    "compute_budget": 1000000000000000.0,
+    "parameters": 18301824,
+    "steps": 277,
+    "tokens": 9076736,
+    "actual_flops": 996724948598784,
+    "output_dir": "runs/formal/remaining/a3/a3-C1e+15-N18301824",
+    "final_loss": 2.581090472638607,
+    "train_seconds": 76.6908597825095
+  },
+  {
+    "id": "a3-C1e+15-N35152384",
+    "compute_budget": 1000000000000000.0,
+    "parameters": 35152384,
+    "steps": 144,
+    "tokens": 4718592,
+    "actual_flops": 995218547539968,
+    "output_dir": "runs/formal/remaining/a3/a3-C1e+15-N35152384",
+    "final_loss": 2.9191250279545784,
+    "train_seconds": 65.30884385993704
+  },
+  {
+    "id": "a3-C3e+15-N8333568",
+    "compute_budget": 3000000000000000.0,
+    "parameters": 8333568,
+    "steps": 1831,
+    "tokens": 59998208,
+    "actual_flops": 2999994877476864,
+    "output_dir": "runs/formal/remaining/a3/a3-C3e+15-N8333568",
+    "final_loss": 1.929628074169159,
+    "train_seconds": 263.78500719508156
+  },
+  {
+    "id": "a3-C3e+15-N18301824",
+    "compute_budget": 3000000000000000.0,
+    "parameters": 18301824,
+    "steps": 833,
+    "tokens": 27295744,
+    "actual_flops": 2997371415822336,
+    "output_dir": "runs/formal/remaining/a3/a3-C3e+15-N18301824",
+    "final_loss": 1.9497569501399994,
+    "train_seconds": 200.00538109475747
+  },
+  {
+    "id": "a3-C3e+15-N35152384",
+    "compute_budget": 3000000000000000.0,
+    "parameters": 35152384,
+    "steps": 434,
+    "tokens": 14221312,
+    "actual_flops": 2999478122446848,
+    "output_dir": "runs/formal/remaining/a3/a3-C3e+15-N35152384",
+    "final_loss": 2.1335424333810806,
+    "train_seconds": 165.06145597901195
+  },
+  {
+    "id": "a3-C1e+16-N8333568",
+    "compute_budget": 1e+16,
+    "parameters": 8333568,
+    "steps": 6103,
+    "tokens": 199983104,
+    "actual_flops": 9999436776210432,
+    "output_dir": "runs/formal/remaining/a3/a3-C1e+16-N8333568",
+    "final_loss": 1.6545579247176647,
+    "train_seconds": 882.018482984975
+  },
+  {
+    "id": "a3-C1e+16-N18301824",
+    "compute_budget": 1e+16,
+    "parameters": 18301824,
+    "steps": 2779,
+    "tokens": 91062272,
+    "actual_flops": 9999634051104768,
+    "output_dir": "runs/formal/remaining/a3/a3-C1e+16-N18301824",
+    "final_loss": 1.5908654071390629,
+    "train_seconds": 658.0774155422114
+  },
+  {
+    "id": "a3-C1e+16-N35152384",
+    "compute_budget": 1e+16,
+    "parameters": 35152384,
+    "steps": 1446,
+    "tokens": 47382528,
+    "actual_flops": 9993652914880512,
+    "output_dir": "runs/formal/remaining/a3/a3-C1e+16-N35152384",
+    "final_loss": 1.6394977942109108,
+    "train_seconds": 571.9209546782076
+  }
+]

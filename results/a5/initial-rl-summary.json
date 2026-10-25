@@ -1,0 +1,8 @@
+{
+  "reward": 0.265352539802881,
+  "format_reward": 0.9984836997725549,
+  "answer_reward": 0.265352539802881,
+  "examples": 1319,
+  "mean_response_tokens": 107.76952236542836,
+  "max_response_tokens": 512
+}

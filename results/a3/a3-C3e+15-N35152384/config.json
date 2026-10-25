@@ -1,0 +1,34 @@
+{
+  "seed": 42,
+  "output_dir": "runs/formal/remaining/a3/a3-C3e+15-N35152384",
+  "train_tokens": "data/tinystories/train.bin",
+  "val_tokens": "data/tinystories/val.bin",
+  "model": {
+    "vocab_size": 10000,
+    "context_length": 256,
+    "d_model": 512,
+    "num_layers": 8,
+    "num_heads": 8,
+    "d_ff": 1344
+  },
+  "lr": 0.001,
+  "min_lr": 0.0001,
+  "warmup_steps": 21,
+  "steps": 434,
+  "micro_batch_size": 64,
+  "gradient_accumulation_steps": 2,
+  "eval_every": 86,
+  "eval_batch_size": 32,
+  "eval_batches": 32,
+  "checkpoint_every": 50,
+  "checkpoint_minutes": 10,
+  "log_every": 10,
+  "bf16": true,
+  "max_grad_norm": 1.0,
+  "cpu_threads": 4,
+  "weight_decay": 0.1,
+  "data_identity": {
+    "train_tokens": "c8a878e9e76e47a74d6df08ffa159d0bafb34b351fe41eaa37915fa3780f8db5",
+    "val_tokens": "40d0e915ead91d1bc18cb214a3fe6e30943f51acc78c12e4fa924f0de0a600f3"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "config": "runs/formal/remaining/configs/a2-cpu.json",
+    "method": "zero1",
+    "backend": "gloo",
+    "cpu_workers": 2,
+    "port": 29643,
+    "bf16": false,
+    "warmup": 2,
+    "repeats": 5,
+    "output": "runs/formal/remaining/a2/gloo-zero1.json"
+  },
+  "world_size": 2,
+  "torch": "2.11.0+cu130",
+  "all_seconds_max_rank": [
+    0.008205216377973557,
+    0.00838378444314003,
+    0.008473520167171955,
+    0.008797450922429562,
+    0.008410578593611717
+  ],
+  "median_seconds": 0.008410578593611717,
+  "global_tokens_per_second": 30437.85836499354,
+  "max_rank_peak_allocated_bytes": 0,
+  "dataset": "synthetic tensors; no data IO; reference equivalence checked separately"
+}

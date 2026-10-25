@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=77,<82"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cs336-self-study"
+version = "0.1.0"
+description = "CS336 Spring 2026 self-study implementations and reproducible experiments"
+requires-python = ">=3.12,<3.14"
+dependencies = ["torch>=2.11,<2.12", "numpy>=1.26,<2", "regex>=2024.11", "scipy>=1.13", "einops>=0.8", "einx>=0.3,<0.4", "requests>=2.32"]
+
+[project.optional-dependencies]
+alignment = ["transformers==5.7.0", "datasets>=3,<5", "pyarrow>=21,<22", "accelerate>=1", "sympy>=1.13", "pylatexenc>=2.10", "math-verify>=0.7", "latex2sympy2-extended>=1.0"]
+data = ["resiliparse>=0.15", "fastwarc>=0.15", "fasttext>=0.9.3", "warcio>=1.8", "xopen>=2"]
+plots = ["matplotlib>=3.9"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+
+
+cs336_a4_reference = ["LICENSE"]

@@ -1,0 +1,174 @@
+{
+  "passed_cases": 12,
+  "reference": "explicit FP32 softmax attention",
+  "cases": [
+    {
+      "dtype": "torch.float32",
+      "length": 39,
+      "head_dim": 16,
+      "causal": false,
+      "atol": 0.0002,
+      "rtol": 0.0002,
+      "max_abs_errors": {
+        "output": 4.172325134277344e-07,
+        "dq": 2.980232238769531e-07,
+        "dk": 2.980232238769531e-07,
+        "dv": 4.76837158203125e-07
+      }
+    },
+    {
+      "dtype": "torch.float32",
+      "length": 39,
+      "head_dim": 16,
+      "causal": true,
+      "atol": 0.0002,
+      "rtol": 0.0002,
+      "max_abs_errors": {
+        "output": 3.5762786865234375e-07,
+        "dq": 4.76837158203125e-07,
+        "dk": 5.960464477539062e-07,
+        "dv": 7.152557373046875e-07
+      }
+    },
+    {
+      "dtype": "torch.float32",
+      "length": 129,
+      "head_dim": 64,
+      "causal": false,
+      "atol": 0.0002,
+      "rtol": 0.0002,
+      "max_abs_errors": {
+        "output": 4.76837158203125e-07,
+        "dq": 4.172325134277344e-07,
+        "dk": 3.2782554626464844e-07,
+        "dv": 2.980232238769531e-07
+      }
+    },
+    {
+      "dtype": "torch.float32",
+      "length": 129,
+      "head_dim": 64,
+      "causal": true,
+      "atol": 0.0002,
+      "rtol": 0.0002,
+      "max_abs_errors": {
+        "output": 6.556510925292969e-07,
+        "dq": 1.951875219674548e-06,
+        "dk": 2.086162567138672e-06,
+        "dv": 7.152557373046875e-07
+      }
+    },
+    {
+      "dtype": "torch.float32",
+      "length": 513,
+      "head_dim": 128,
+      "causal": false,
+      "atol": 0.0002,
+      "rtol": 0.0002,
+      "max_abs_errors": {
+        "output": 4.6193599700927734e-07,
+        "dq": 4.76837158203125e-07,
+        "dk": 8.344650268554688e-07,
+        "dv": 2.086162567138672e-07
+      }
+    },
+    {
+      "dtype": "torch.float32",
+      "length": 513,
+      "head_dim": 128,
+      "causal": true,
+      "atol": 0.0002,
+      "rtol": 0.0002,
+      "max_abs_errors": {
+        "output": 8.940696716308594e-07,
+        "dq": 6.556510925292969e-07,
+        "dk": 2.5033950805664062e-06,
+        "dv": 1.1920928955078125e-06
+      }
+    },
+    {
+      "dtype": "torch.bfloat16",
+      "length": 39,
+      "head_dim": 16,
+      "causal": false,
+      "atol": 0.02,
+      "rtol": 0.02,
+      "max_abs_errors": {
+        "output": 0.00357973575592041,
+        "dq": 0.004263877868652344,
+        "dk": 0.0037339329719543457,
+        "dv": 0.004375457763671875
+      }
+    },
+    {
+      "dtype": "torch.bfloat16",
+      "length": 39,
+      "head_dim": 16,
+      "causal": true,
+      "atol": 0.02,
+      "rtol": 0.02,
+      "max_abs_errors": {
+        "output": 0.004374384880065918,
+        "dq": 0.0052678585052490234,
+        "dk": 0.005835890769958496,
+        "dv": 0.00825047492980957
+      }
+    },
+    {
+      "dtype": "torch.bfloat16",
+      "length": 129,
+      "head_dim": 64,
+      "causal": false,
+      "atol": 0.02,
+      "rtol": 0.02,
+      "max_abs_errors": {
+        "output": 0.0020239949226379395,
+        "dq": 0.004154980182647705,
+        "dk": 0.0035911202430725098,
+        "dv": 0.00263136625289917
+      }
+    },
+    {
+      "dtype": "torch.bfloat16",
+      "length": 129,
+      "head_dim": 64,
+      "causal": true,
+      "atol": 0.02,
+      "rtol": 0.02,
+      "max_abs_errors": {
+        "output": 0.007187604904174805,
+        "dq": 0.005865931510925293,
+        "dk": 0.005252242088317871,
+        "dv": 0.013546466827392578
+      }
+    },
+    {
+      "dtype": "torch.bfloat16",
+      "length": 513,
+      "head_dim": 128,
+      "causal": false,
+      "atol": 0.02,
+      "rtol": 0.02,
+      "max_abs_errors": {
+        "output": 0.001147449016571045,
+        "dq": 0.001732856035232544,
+        "dk": 0.0015046000480651855,
+        "dv": 0.0015459954738616943
+      }
+    },
+    {
+      "dtype": "torch.bfloat16",
+      "length": 513,
+      "head_dim": 128,
+      "causal": true,
+      "atol": 0.02,
+      "rtol": 0.02,
+      "max_abs_errors": {
+        "output": 0.005382537841796875,
+        "dq": 0.00535130500793457,
+        "dk": 0.008620381355285645,
+        "dv": 0.02023458480834961
+      }
+    }
+  ]
+}

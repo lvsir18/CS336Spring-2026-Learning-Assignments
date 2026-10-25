@@ -1,0 +1,7 @@
+{
+  "allenai/OLMo-2-0425-1B": "a1847dff35000b4271fa70afc5db10fd29fedbdf",
+  "allenai/dolma-jigsaw-fasttext-bigrams-nsfw": "9487f717692cb1d8d37dc3b2433184eb4169f9c4",
+  "allenai/dolma-jigsaw-fasttext-bigrams-hatespeech": "8660901eca836b223d67f8fdfd7dbf6d2d7143ba",
+  "openai/gsm8k": "740312add88f781978c0658806c59bc2815b9866",
+  "Salesforce/wikitext": "b08601e04326c79dfdd32d625aee71d232d685c3"
+}

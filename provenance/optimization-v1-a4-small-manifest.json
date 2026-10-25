@@ -1,0 +1,50 @@
+{
+  "variants": {
+    "raw": {
+      "tokens": 6717253,
+      "documents_touched": 4011,
+      "partial_final_document": false,
+      "sha256": "097415e4db55fee565ff799a98510fdb96ef0f906d15210531591f04c351bf02"
+    },
+    "rules": {
+      "tokens": 6271540,
+      "documents_touched": 3703,
+      "partial_final_document": false,
+      "sha256": "9fe968e323fdc81de7f18c8c2e287c215c42b99826a2441bca1a1b989642eeb0"
+    },
+    "ranked": {
+      "tokens": 2247577,
+      "documents_touched": 1110,
+      "partial_final_document": false,
+      "sha256": "80353671cb2920900d7fed442b9905a86f0214d605c6113c67677d03493f239d"
+    },
+    "random42": {
+      "tokens": 2247577,
+      "documents_touched": 1339,
+      "partial_final_document": true,
+      "sha256": "b42f90fcee801daf09f8025ba07d6f389db6cd1ca506c20fd639981cc97a3798"
+    },
+    "random43": {
+      "tokens": 2247577,
+      "documents_touched": 1356,
+      "partial_final_document": true,
+      "sha256": "80246d24f3d47923ad5899aa3195ebdfb13c94bcebe08dfab2102b834be4bd46"
+    },
+    "random44": {
+      "tokens": 2247577,
+      "documents_touched": 1359,
+      "partial_final_document": true,
+      "sha256": "8d1285ebaab774f851c38620189aef86694348989b56b51843335314bcb9369e"
+    },
+    "val": {
+      "tokens": 846848,
+      "documents_touched": 517,
+      "partial_final_document": false,
+      "sha256": "1a23e206be110c97603748962619e50b1c14c8200cf906e1c60afc5f4048d3b1"
+    }
+  },
+  "matched_subset_tokens": 2247577,
+  "pii": "same masking in every training arm and common validation",
+  "quality": "original disjoint Wiki proxy; ranked exactly the original selected document IDs",
+  "tokenizer": "GPT2 native BPE checked on 20 documents against our implementation"
+}

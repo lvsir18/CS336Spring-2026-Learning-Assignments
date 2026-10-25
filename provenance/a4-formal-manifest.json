@@ -1,0 +1,43 @@
+{
+  "variants": {
+    "raw": {
+      "documents": 4011,
+      "tokens": 6710206,
+      "sha256": "e724b307d12fe341abf68241b7bdb070ff256bc0c4ee08638a507534a82e6c00"
+    },
+    "clean": {
+      "documents": 1110,
+      "tokens": 2247609,
+      "sha256": "463a717d24a4bc0e74c910397b3de07816cef12b4c2c4ed493b44f8553a3f6dd"
+    },
+    "val": {
+      "documents": 517,
+      "tokens": 845992,
+      "sha256": "7c14d4d9cf7a814a980eda7574dc0b26707e3eec0e3eccb35bf031c243f4e2b0"
+    }
+  },
+  "filters": {
+    "input_documents": 19637,
+    "non_english": 13741,
+    "exact_duplicate": 313,
+    "reject_rules": 306,
+    "reject_toxic": 2,
+    "reject_quality_rank": 2592
+  },
+  "dedup": {
+    "input_documents": 1111,
+    "retained_documents": 1110,
+    "seed": 42
+  },
+  "domain_split": "sha256(domain)%10==0 validation",
+  "quality_reference": "WikiText-2 train proxy plus disjoint reserved CC train negatives; excluded from both LM arms",
+  "quality_policy": {
+    "rule_survivors": 3703,
+    "retained_fraction": 0.3,
+    "classifier_reference_per_class": 1000,
+    "selection": "top Wiki-proxy score; not calibrated probability of true quality"
+  },
+  "source": "CC-MAIN-2026-12 first WET shard; separate 200-page WARC extraction sample",
+  "gpt2_vocab_sha256": "196139668be63f3b5d6574427317ae82f612a97c5d1cdaf36ed2256dbf636783",
+  "quality_model_sha256": "42395346dae73266bb0f315d7d305f356295fb7cf216ca1309e00ad8048e168f"
+}

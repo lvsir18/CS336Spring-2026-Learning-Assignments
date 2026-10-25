@@ -1,0 +1,14 @@
+{
+  "raw": {
+    "step": 2000,
+    "val_loss": 5.483104631304741,
+    "val_perplexity": 240.59250007695277,
+    "protocol": "Old fixed-random-window validation; not comparable as a single-variable causal experiment with the optimized full-stream protocol."
+  },
+  "clean": {
+    "step": 2000,
+    "val_loss": 9.178654968738556,
+    "val_perplexity": 9688.113190463751,
+    "protocol": "Old fixed-random-window validation; not comparable as a single-variable causal experiment with the optimized full-stream protocol."
+  }
+}

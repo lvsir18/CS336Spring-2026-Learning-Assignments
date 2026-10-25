@@ -1,0 +1,45 @@
+{
+  "dataset": "roneneldan/TinyStories",
+  "revision": "f54c09fd23315a6f9c86f9dc80f725de7d8f9c64",
+  "endpoint": "https://hf-mirror.com",
+  "sources": {
+    "train": {
+      "path": "data/tinystories/source/train.txt",
+      "bytes": 2227753162,
+      "sha256": "6418d412de72888f52b5142c761ac21a582f7d1166f0bfbdb5f03ccfdec90443",
+      "official_url": "https://huggingface.co/datasets/roneneldan/TinyStories/resolve/f54c09fd23315a6f9c86f9dc80f725de7d8f9c64/TinyStoriesV2-GPT4-train.txt"
+    },
+    "val": {
+      "path": "data/tinystories/source/val.txt",
+      "bytes": 22502601,
+      "sha256": "6874bae9a4c1a4e7edcf0e53b86c17817e9cf881fc75ff2368da457b80c0585d",
+      "official_url": "https://huggingface.co/datasets/roneneldan/TinyStories/resolve/f54c09fd23315a6f9c86f9dc80f725de7d8f9c64/TinyStoriesV2-GPT4-valid.txt"
+    }
+  },
+  "processed": {
+    "val": {
+      "documents": 27630,
+      "excluded_exact_val_matches": 0,
+      "sha256": "07b936c85ecf7a286197da7708a7d68fd2f00546f77b30560aed2e116461e831",
+      "bytes": 22491568,
+      "tokens": 5450688,
+      "token_sha256": "40d0e915ead91d1bc18cb214a3fe6e30943f51acc78c12e4fa924f0de0a600f3",
+      "dtype": "uint16"
+    },
+    "train": {
+      "documents": 2717495,
+      "excluded_exact_val_matches": 0,
+      "sha256": "a048b3b5a21d251cf6c5dda265f041f306d54c72c0f9ed93a61f1ed4755d5b0e",
+      "bytes": 2226657658,
+      "tokens": 539750659,
+      "token_sha256": "c8a878e9e76e47a74d6df08ffa159d0bafb34b351fe41eaa37915fa3780f8db5",
+      "dtype": "uint16"
+    }
+  },
+  "tokenizer": {
+    "path": "data/tinystories/tokenizer.json",
+    "sha256": "9570c53386904e85bffbce70e6d71a5095e54d78ea5fb33983b44b751306403e",
+    "vocab_size": 10000
+  },
+  "segmentation": "complete EOS-separated documents for split filtering; tokenization preserves independent line segmentation"
+}

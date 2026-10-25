@@ -1,0 +1,11 @@
+{
+  "reward": 0.27065959059893857,
+  "format_reward": 0.9962092494313874,
+  "answer_reward": 0.27065959059893857,
+  "answer_parseable": 0.9962092494313874,
+  "answer_only_reward": 0.27065959059893857,
+  "hit_token_limit": 0.003032600454890068,
+  "examples": 1319,
+  "mean_response_tokens": 122.69067475360121,
+  "max_response_tokens": 512
+}

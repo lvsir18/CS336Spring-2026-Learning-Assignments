@@ -1,0 +1,9235 @@
+[
+  {
+    "test_index": 0,
+    "response_tokens": 120,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1,
+    "response_tokens": 40,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 2,
+    "response_tokens": 111,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 3,
+    "response_tokens": 50,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 4,
+    "response_tokens": 69,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 5,
+    "response_tokens": 127,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 6,
+    "response_tokens": 86,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 7,
+    "response_tokens": 341,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 8,
+    "response_tokens": 148,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 9,
+    "response_tokens": 132,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 10,
+    "response_tokens": 114,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 11,
+    "response_tokens": 161,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 12,
+    "response_tokens": 122,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 13,
+    "response_tokens": 60,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 14,
+    "response_tokens": 92,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 15,
+    "response_tokens": 118,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 16,
+    "response_tokens": 327,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 17,
+    "response_tokens": 198,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 18,
+    "response_tokens": 100,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 19,
+    "response_tokens": 108,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 20,
+    "response_tokens": 110,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 21,
+    "response_tokens": 76,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 22,
+    "response_tokens": 91,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 23,
+    "response_tokens": 80,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 24,
+    "response_tokens": 72,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 25,
+    "response_tokens": 169,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 26,
+    "response_tokens": 87,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 27,
+    "response_tokens": 120,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 28,
+    "response_tokens": 95,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 29,
+    "response_tokens": 105,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 30,
+    "response_tokens": 138,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 31,
+    "response_tokens": 121,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 32,
+    "response_tokens": 57,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 33,
+    "response_tokens": 151,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 34,
+    "response_tokens": 51,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 35,
+    "response_tokens": 95,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 36,
+    "response_tokens": 220,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 37,
+    "response_tokens": 100,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 38,
+    "response_tokens": 116,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 39,
+    "response_tokens": 296,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 40,
+    "response_tokens": 75,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 41,
+    "response_tokens": 142,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 42,
+    "response_tokens": 74,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 43,
+    "response_tokens": 139,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 44,
+    "response_tokens": 74,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 45,
+    "response_tokens": 176,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 46,
+    "response_tokens": 59,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 47,
+    "response_tokens": 143,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 48,
+    "response_tokens": 95,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 49,
+    "response_tokens": 77,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 50,
+    "response_tokens": 147,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 51,
+    "response_tokens": 87,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 52,
+    "response_tokens": 93,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 53,
+    "response_tokens": 130,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 54,
+    "response_tokens": 82,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 55,
+    "response_tokens": 75,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 56,
+    "response_tokens": 105,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 57,
+    "response_tokens": 90,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 58,
+    "response_tokens": 129,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 59,
+    "response_tokens": 55,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 60,
+    "response_tokens": 92,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 61,
+    "response_tokens": 78,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 62,
+    "response_tokens": 300,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 63,
+    "response_tokens": 482,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 64,
+    "response_tokens": 123,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 65,
+    "response_tokens": 102,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 66,
+    "response_tokens": 85,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 67,
+    "response_tokens": 75,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 68,
+    "response_tokens": 58,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 69,
+    "response_tokens": 83,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 70,
+    "response_tokens": 138,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 71,
+    "response_tokens": 50,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 72,
+    "response_tokens": 103,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 73,
+    "response_tokens": 103,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 74,
+    "response_tokens": 479,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 75,
+    "response_tokens": 75,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 76,
+    "response_tokens": 126,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 77,
+    "response_tokens": 137,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 78,
+    "response_tokens": 181,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 79,
+    "response_tokens": 47,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 80,
+    "response_tokens": 64,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 81,
+    "response_tokens": 70,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 82,
+    "response_tokens": 70,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 83,
+    "response_tokens": 46,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 84,
+    "response_tokens": 63,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 85,
+    "response_tokens": 134,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 86,
+    "response_tokens": 124,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 87,
+    "response_tokens": 329,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 88,
+    "response_tokens": 97,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 89,
+    "response_tokens": 89,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 90,
+    "response_tokens": 127,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 91,
+    "response_tokens": 103,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 92,
+    "response_tokens": 106,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 93,
+    "response_tokens": 108,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 94,
+    "response_tokens": 105,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 95,
+    "response_tokens": 140,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 96,
+    "response_tokens": 78,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 97,
+    "response_tokens": 86,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 98,
+    "response_tokens": 224,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 99,
+    "response_tokens": 96,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 100,
+    "response_tokens": 125,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 101,
+    "response_tokens": 103,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 102,
+    "response_tokens": 162,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 103,
+    "response_tokens": 201,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 104,
+    "response_tokens": 121,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 105,
+    "response_tokens": 49,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 106,
+    "response_tokens": 143,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 107,
+    "response_tokens": 161,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 108,
+    "response_tokens": 72,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 109,
+    "response_tokens": 104,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 110,
+    "response_tokens": 149,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 111,
+    "response_tokens": 102,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 112,
+    "response_tokens": 59,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 113,
+    "response_tokens": 120,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 114,
+    "response_tokens": 129,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 115,
+    "response_tokens": 226,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 116,
+    "response_tokens": 99,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 117,
+    "response_tokens": 46,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 118,
+    "response_tokens": 115,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 119,
+    "response_tokens": 309,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 120,
+    "response_tokens": 52,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 121,
+    "response_tokens": 186,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 122,
+    "response_tokens": 201,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 123,
+    "response_tokens": 61,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 124,
+    "response_tokens": 57,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 125,
+    "response_tokens": 115,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 126,
+    "response_tokens": 59,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 127,
+    "response_tokens": 52,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 128,
+    "response_tokens": 113,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 129,
+    "response_tokens": 160,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 130,
+    "response_tokens": 87,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 131,
+    "response_tokens": 63,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 132,
+    "response_tokens": 146,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 133,
+    "response_tokens": 51,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 134,
+    "response_tokens": 54,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 135,
+    "response_tokens": 173,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 136,
+    "response_tokens": 85,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 137,
+    "response_tokens": 363,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 138,
+    "response_tokens": 158,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 139,
+    "response_tokens": 80,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 140,
+    "response_tokens": 94,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 141,
+    "response_tokens": 260,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 142,
+    "response_tokens": 98,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 143,
+    "response_tokens": 128,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 144,
+    "response_tokens": 205,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 145,
+    "response_tokens": 64,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 146,
+    "response_tokens": 138,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 147,
+    "response_tokens": 80,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 148,
+    "response_tokens": 131,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 149,
+    "response_tokens": 51,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 150,
+    "response_tokens": 229,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 151,
+    "response_tokens": 68,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 152,
+    "response_tokens": 62,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 153,
+    "response_tokens": 170,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 154,
+    "response_tokens": 156,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 155,
+    "response_tokens": 118,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 156,
+    "response_tokens": 70,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 157,
+    "response_tokens": 87,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 158,
+    "response_tokens": 84,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 159,
+    "response_tokens": 81,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 160,
+    "response_tokens": 61,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 161,
+    "response_tokens": 217,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 162,
+    "response_tokens": 97,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 163,
+    "response_tokens": 160,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 164,
+    "response_tokens": 159,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 165,
+    "response_tokens": 81,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 166,
+    "response_tokens": 63,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 167,
+    "response_tokens": 126,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 168,
+    "response_tokens": 52,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 169,
+    "response_tokens": 113,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 170,
+    "response_tokens": 81,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 171,
+    "response_tokens": 155,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 172,
+    "response_tokens": 133,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 173,
+    "response_tokens": 144,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 174,
+    "response_tokens": 149,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 175,
+    "response_tokens": 161,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 176,
+    "response_tokens": 93,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 177,
+    "response_tokens": 208,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 178,
+    "response_tokens": 84,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 179,
+    "response_tokens": 67,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 180,
+    "response_tokens": 69,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 181,
+    "response_tokens": 181,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 182,
+    "response_tokens": 171,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 183,
+    "response_tokens": 344,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 184,
+    "response_tokens": 110,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 185,
+    "response_tokens": 65,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 186,
+    "response_tokens": 95,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 187,
+    "response_tokens": 67,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 188,
+    "response_tokens": 119,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 189,
+    "response_tokens": 150,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 190,
+    "response_tokens": 49,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 191,
+    "response_tokens": 83,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 192,
+    "response_tokens": 116,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 193,
+    "response_tokens": 202,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 194,
+    "response_tokens": 159,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 195,
+    "response_tokens": 95,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 196,
+    "response_tokens": 64,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 197,
+    "response_tokens": 68,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 198,
+    "response_tokens": 136,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 199,
+    "response_tokens": 95,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 200,
+    "response_tokens": 63,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 201,
+    "response_tokens": 142,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 202,
+    "response_tokens": 53,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 203,
+    "response_tokens": 83,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 204,
+    "response_tokens": 98,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 205,
+    "response_tokens": 145,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 206,
+    "response_tokens": 164,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 207,
+    "response_tokens": 138,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 208,
+    "response_tokens": 50,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 209,
+    "response_tokens": 137,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 210,
+    "response_tokens": 104,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 211,
+    "response_tokens": 72,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 212,
+    "response_tokens": 136,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 213,
+    "response_tokens": 156,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 214,
+    "response_tokens": 105,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 215,
+    "response_tokens": 89,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 216,
+    "response_tokens": 205,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 217,
+    "response_tokens": 64,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 218,
+    "response_tokens": 158,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 219,
+    "response_tokens": 113,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 220,
+    "response_tokens": 61,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 221,
+    "response_tokens": 104,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 222,
+    "response_tokens": 45,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 223,
+    "response_tokens": 72,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 224,
+    "response_tokens": 132,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 225,
+    "response_tokens": 105,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 226,
+    "response_tokens": 199,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 227,
+    "response_tokens": 190,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 228,
+    "response_tokens": 103,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 229,
+    "response_tokens": 74,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 230,
+    "response_tokens": 207,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 231,
+    "response_tokens": 85,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 232,
+    "response_tokens": 73,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 233,
+    "response_tokens": 77,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 234,
+    "response_tokens": 200,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 235,
+    "response_tokens": 70,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 236,
+    "response_tokens": 134,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 237,
+    "response_tokens": 130,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 238,
+    "response_tokens": 219,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 239,
+    "response_tokens": 149,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 240,
+    "response_tokens": 98,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 241,
+    "response_tokens": 82,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 242,
+    "response_tokens": 129,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 243,
+    "response_tokens": 130,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 244,
+    "response_tokens": 336,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 245,
+    "response_tokens": 89,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 246,
+    "response_tokens": 240,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 247,
+    "response_tokens": 78,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 248,
+    "response_tokens": 65,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 249,
+    "response_tokens": 154,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 250,
+    "response_tokens": 225,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 251,
+    "response_tokens": 64,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 252,
+    "response_tokens": 207,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 253,
+    "response_tokens": 93,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 254,
+    "response_tokens": 123,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 255,
+    "response_tokens": 87,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 256,
+    "response_tokens": 114,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 257,
+    "response_tokens": 118,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 258,
+    "response_tokens": 136,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 259,
+    "response_tokens": 154,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 260,
+    "response_tokens": 56,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 261,
+    "response_tokens": 99,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 262,
+    "response_tokens": 56,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 263,
+    "response_tokens": 71,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 264,
+    "response_tokens": 68,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 265,
+    "response_tokens": 143,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 266,
+    "response_tokens": 216,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 267,
+    "response_tokens": 136,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 268,
+    "response_tokens": 76,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 269,
+    "response_tokens": 28,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 270,
+    "response_tokens": 105,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 271,
+    "response_tokens": 86,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 272,
+    "response_tokens": 75,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 273,
+    "response_tokens": 147,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 274,
+    "response_tokens": 84,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 275,
+    "response_tokens": 147,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 276,
+    "response_tokens": 188,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 277,
+    "response_tokens": 117,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 278,
+    "response_tokens": 138,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 279,
+    "response_tokens": 78,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 280,
+    "response_tokens": 85,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 281,
+    "response_tokens": 246,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 282,
+    "response_tokens": 125,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 283,
+    "response_tokens": 92,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 284,
+    "response_tokens": 221,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 285,
+    "response_tokens": 58,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 286,
+    "response_tokens": 124,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 287,
+    "response_tokens": 134,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 288,
+    "response_tokens": 150,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 289,
+    "response_tokens": 93,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 290,
+    "response_tokens": 106,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 291,
+    "response_tokens": 106,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 292,
+    "response_tokens": 151,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 293,
+    "response_tokens": 484,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 294,
+    "response_tokens": 78,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 295,
+    "response_tokens": 129,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 296,
+    "response_tokens": 94,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 297,
+    "response_tokens": 171,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 298,
+    "response_tokens": 136,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 299,
+    "response_tokens": 150,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 300,
+    "response_tokens": 71,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 301,
+    "response_tokens": 82,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 302,
+    "response_tokens": 49,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 303,
+    "response_tokens": 262,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 304,
+    "response_tokens": 150,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 305,
+    "response_tokens": 46,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 306,
+    "response_tokens": 102,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 307,
+    "response_tokens": 111,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 308,
+    "response_tokens": 184,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 309,
+    "response_tokens": 98,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 310,
+    "response_tokens": 170,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 311,
+    "response_tokens": 127,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 312,
+    "response_tokens": 48,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 313,
+    "response_tokens": 162,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 314,
+    "response_tokens": 77,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 315,
+    "response_tokens": 217,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 316,
+    "response_tokens": 131,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 317,
+    "response_tokens": 49,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 318,
+    "response_tokens": 52,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 319,
+    "response_tokens": 95,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 320,
+    "response_tokens": 90,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 321,
+    "response_tokens": 46,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 322,
+    "response_tokens": 219,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 323,
+    "response_tokens": 164,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 324,
+    "response_tokens": 86,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 325,
+    "response_tokens": 177,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 326,
+    "response_tokens": 136,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 327,
+    "response_tokens": 134,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 328,
+    "response_tokens": 410,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 329,
+    "response_tokens": 66,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 330,
+    "response_tokens": 143,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 331,
+    "response_tokens": 271,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 332,
+    "response_tokens": 40,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 333,
+    "response_tokens": 158,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 334,
+    "response_tokens": 115,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 335,
+    "response_tokens": 102,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 336,
+    "response_tokens": 154,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 337,
+    "response_tokens": 62,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 338,
+    "response_tokens": 75,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 339,
+    "response_tokens": 199,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 340,
+    "response_tokens": 131,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 341,
+    "response_tokens": 233,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 342,
+    "response_tokens": 88,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 343,
+    "response_tokens": 145,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 344,
+    "response_tokens": 80,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 345,
+    "response_tokens": 92,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 346,
+    "response_tokens": 222,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 347,
+    "response_tokens": 68,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 348,
+    "response_tokens": 166,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 349,
+    "response_tokens": 182,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 350,
+    "response_tokens": 196,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 351,
+    "response_tokens": 70,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 352,
+    "response_tokens": 84,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 353,
+    "response_tokens": 229,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 354,
+    "response_tokens": 125,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 355,
+    "response_tokens": 76,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 356,
+    "response_tokens": 141,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 357,
+    "response_tokens": 174,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 358,
+    "response_tokens": 126,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 359,
+    "response_tokens": 138,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 360,
+    "response_tokens": 70,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 361,
+    "response_tokens": 186,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 362,
+    "response_tokens": 173,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 363,
+    "response_tokens": 245,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 364,
+    "response_tokens": 84,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 365,
+    "response_tokens": 127,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 366,
+    "response_tokens": 65,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 367,
+    "response_tokens": 96,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 368,
+    "response_tokens": 81,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 369,
+    "response_tokens": 239,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 370,
+    "response_tokens": 68,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 371,
+    "response_tokens": 106,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 372,
+    "response_tokens": 159,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 373,
+    "response_tokens": 118,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 374,
+    "response_tokens": 136,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 375,
+    "response_tokens": 107,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 376,
+    "response_tokens": 84,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 377,
+    "response_tokens": 116,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 378,
+    "response_tokens": 54,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 379,
+    "response_tokens": 56,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 380,
+    "response_tokens": 86,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 381,
+    "response_tokens": 72,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 382,
+    "response_tokens": 297,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 383,
+    "response_tokens": 168,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 384,
+    "response_tokens": 72,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 385,
+    "response_tokens": 129,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 386,
+    "response_tokens": 87,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 387,
+    "response_tokens": 81,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 388,
+    "response_tokens": 72,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 389,
+    "response_tokens": 118,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 390,
+    "response_tokens": 78,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 391,
+    "response_tokens": 138,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 392,
+    "response_tokens": 89,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 393,
+    "response_tokens": 169,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 394,
+    "response_tokens": 84,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 395,
+    "response_tokens": 131,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 396,
+    "response_tokens": 103,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 397,
+    "response_tokens": 79,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 398,
+    "response_tokens": 105,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 399,
+    "response_tokens": 79,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 400,
+    "response_tokens": 48,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 401,
+    "response_tokens": 154,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 402,
+    "response_tokens": 185,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 403,
+    "response_tokens": 136,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 404,
+    "response_tokens": 125,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 405,
+    "response_tokens": 246,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 406,
+    "response_tokens": 185,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 407,
+    "response_tokens": 158,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 408,
+    "response_tokens": 131,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 409,
+    "response_tokens": 189,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 410,
+    "response_tokens": 240,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 411,
+    "response_tokens": 180,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 412,
+    "response_tokens": 112,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 413,
+    "response_tokens": 94,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 414,
+    "response_tokens": 81,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 415,
+    "response_tokens": 299,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 416,
+    "response_tokens": 241,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 417,
+    "response_tokens": 187,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 418,
+    "response_tokens": 53,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 419,
+    "response_tokens": 118,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 420,
+    "response_tokens": 120,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 421,
+    "response_tokens": 104,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 422,
+    "response_tokens": 327,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 423,
+    "response_tokens": 108,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 424,
+    "response_tokens": 204,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 425,
+    "response_tokens": 117,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 426,
+    "response_tokens": 149,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 427,
+    "response_tokens": 157,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 428,
+    "response_tokens": 146,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 429,
+    "response_tokens": 101,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 430,
+    "response_tokens": 295,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 431,
+    "response_tokens": 49,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 432,
+    "response_tokens": 135,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 433,
+    "response_tokens": 105,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 434,
+    "response_tokens": 129,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 435,
+    "response_tokens": 60,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 436,
+    "response_tokens": 74,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 437,
+    "response_tokens": 79,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 438,
+    "response_tokens": 245,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 439,
+    "response_tokens": 167,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 440,
+    "response_tokens": 131,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 441,
+    "response_tokens": 174,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 442,
+    "response_tokens": 137,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 443,
+    "response_tokens": 63,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 444,
+    "response_tokens": 62,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 445,
+    "response_tokens": 75,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 446,
+    "response_tokens": 102,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 447,
+    "response_tokens": 90,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 448,
+    "response_tokens": 168,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 449,
+    "response_tokens": 78,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 450,
+    "response_tokens": 92,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 451,
+    "response_tokens": 89,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 452,
+    "response_tokens": 115,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 453,
+    "response_tokens": 92,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 454,
+    "response_tokens": 51,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 455,
+    "response_tokens": 164,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 456,
+    "response_tokens": 95,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 457,
+    "response_tokens": 97,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 458,
+    "response_tokens": 153,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 459,
+    "response_tokens": 237,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 460,
+    "response_tokens": 82,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 461,
+    "response_tokens": 86,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 462,
+    "response_tokens": 72,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 463,
+    "response_tokens": 70,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 464,
+    "response_tokens": 104,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 465,
+    "response_tokens": 149,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 466,
+    "response_tokens": 301,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 467,
+    "response_tokens": 140,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 468,
+    "response_tokens": 140,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 469,
+    "response_tokens": 65,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 470,
+    "response_tokens": 81,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 471,
+    "response_tokens": 356,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 472,
+    "response_tokens": 42,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 473,
+    "response_tokens": 117,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 474,
+    "response_tokens": 71,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 475,
+    "response_tokens": 91,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 476,
+    "response_tokens": 56,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 477,
+    "response_tokens": 95,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 478,
+    "response_tokens": 78,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 479,
+    "response_tokens": 120,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 480,
+    "response_tokens": 157,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 481,
+    "response_tokens": 89,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 482,
+    "response_tokens": 137,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 483,
+    "response_tokens": 512,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 484,
+    "response_tokens": 125,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 485,
+    "response_tokens": 34,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 486,
+    "response_tokens": 69,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 487,
+    "response_tokens": 120,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 488,
+    "response_tokens": 34,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 489,
+    "response_tokens": 64,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 490,
+    "response_tokens": 94,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 491,
+    "response_tokens": 58,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 492,
+    "response_tokens": 57,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 493,
+    "response_tokens": 196,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 494,
+    "response_tokens": 259,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 495,
+    "response_tokens": 70,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 496,
+    "response_tokens": 84,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 497,
+    "response_tokens": 209,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 498,
+    "response_tokens": 105,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 499,
+    "response_tokens": 153,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 500,
+    "response_tokens": 87,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 501,
+    "response_tokens": 78,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 502,
+    "response_tokens": 76,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 503,
+    "response_tokens": 92,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 504,
+    "response_tokens": 158,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 505,
+    "response_tokens": 177,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 506,
+    "response_tokens": 52,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 507,
+    "response_tokens": 97,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 508,
+    "response_tokens": 130,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 509,
+    "response_tokens": 103,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 510,
+    "response_tokens": 152,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 511,
+    "response_tokens": 52,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 512,
+    "response_tokens": 62,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 513,
+    "response_tokens": 101,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 514,
+    "response_tokens": 283,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 515,
+    "response_tokens": 83,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 516,
+    "response_tokens": 58,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 517,
+    "response_tokens": 46,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 518,
+    "response_tokens": 147,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 519,
+    "response_tokens": 82,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 520,
+    "response_tokens": 181,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 521,
+    "response_tokens": 147,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 522,
+    "response_tokens": 161,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 523,
+    "response_tokens": 92,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 524,
+    "response_tokens": 121,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 525,
+    "response_tokens": 225,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 526,
+    "response_tokens": 197,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 527,
+    "response_tokens": 90,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 528,
+    "response_tokens": 154,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 529,
+    "response_tokens": 89,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 530,
+    "response_tokens": 109,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 531,
+    "response_tokens": 134,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 532,
+    "response_tokens": 148,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 533,
+    "response_tokens": 74,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 534,
+    "response_tokens": 190,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 535,
+    "response_tokens": 136,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 536,
+    "response_tokens": 77,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 537,
+    "response_tokens": 94,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 538,
+    "response_tokens": 84,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 539,
+    "response_tokens": 77,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 540,
+    "response_tokens": 139,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 541,
+    "response_tokens": 268,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 542,
+    "response_tokens": 152,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 543,
+    "response_tokens": 84,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 544,
+    "response_tokens": 68,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 545,
+    "response_tokens": 63,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 546,
+    "response_tokens": 106,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 547,
+    "response_tokens": 321,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 548,
+    "response_tokens": 68,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 549,
+    "response_tokens": 148,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 550,
+    "response_tokens": 240,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 551,
+    "response_tokens": 125,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 552,
+    "response_tokens": 121,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 553,
+    "response_tokens": 84,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 554,
+    "response_tokens": 177,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 555,
+    "response_tokens": 66,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 556,
+    "response_tokens": 134,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 557,
+    "response_tokens": 86,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 558,
+    "response_tokens": 53,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 559,
+    "response_tokens": 177,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 560,
+    "response_tokens": 88,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 561,
+    "response_tokens": 89,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 562,
+    "response_tokens": 157,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 563,
+    "response_tokens": 97,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 564,
+    "response_tokens": 119,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 565,
+    "response_tokens": 71,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 566,
+    "response_tokens": 86,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 567,
+    "response_tokens": 233,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 568,
+    "response_tokens": 69,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 569,
+    "response_tokens": 118,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 570,
+    "response_tokens": 154,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 571,
+    "response_tokens": 84,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 572,
+    "response_tokens": 103,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 573,
+    "response_tokens": 137,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 574,
+    "response_tokens": 373,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 575,
+    "response_tokens": 175,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 576,
+    "response_tokens": 394,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 577,
+    "response_tokens": 163,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 578,
+    "response_tokens": 186,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 579,
+    "response_tokens": 67,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 580,
+    "response_tokens": 86,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 581,
+    "response_tokens": 93,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 582,
+    "response_tokens": 117,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 583,
+    "response_tokens": 81,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 584,
+    "response_tokens": 144,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 585,
+    "response_tokens": 135,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 586,
+    "response_tokens": 61,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 587,
+    "response_tokens": 149,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 588,
+    "response_tokens": 344,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 589,
+    "response_tokens": 175,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 590,
+    "response_tokens": 173,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 591,
+    "response_tokens": 97,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 592,
+    "response_tokens": 135,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 593,
+    "response_tokens": 512,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 594,
+    "response_tokens": 61,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 595,
+    "response_tokens": 151,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 596,
+    "response_tokens": 126,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 597,
+    "response_tokens": 168,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 598,
+    "response_tokens": 141,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 599,
+    "response_tokens": 112,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 600,
+    "response_tokens": 98,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 601,
+    "response_tokens": 128,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 602,
+    "response_tokens": 86,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 603,
+    "response_tokens": 133,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 604,
+    "response_tokens": 110,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 605,
+    "response_tokens": 235,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 606,
+    "response_tokens": 79,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 607,
+    "response_tokens": 512,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 608,
+    "response_tokens": 137,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 609,
+    "response_tokens": 154,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 610,
+    "response_tokens": 121,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 611,
+    "response_tokens": 185,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 612,
+    "response_tokens": 122,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 613,
+    "response_tokens": 74,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 614,
+    "response_tokens": 94,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 615,
+    "response_tokens": 186,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 616,
+    "response_tokens": 71,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 617,
+    "response_tokens": 89,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 618,
+    "response_tokens": 192,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 619,
+    "response_tokens": 107,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 620,
+    "response_tokens": 95,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 621,
+    "response_tokens": 82,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 622,
+    "response_tokens": 127,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 623,
+    "response_tokens": 70,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 624,
+    "response_tokens": 77,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 625,
+    "response_tokens": 87,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 626,
+    "response_tokens": 180,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 627,
+    "response_tokens": 106,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 628,
+    "response_tokens": 93,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 629,
+    "response_tokens": 191,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 630,
+    "response_tokens": 124,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 631,
+    "response_tokens": 175,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 632,
+    "response_tokens": 80,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 633,
+    "response_tokens": 90,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 634,
+    "response_tokens": 46,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 635,
+    "response_tokens": 119,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 636,
+    "response_tokens": 78,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 637,
+    "response_tokens": 66,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 638,
+    "response_tokens": 156,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 639,
+    "response_tokens": 81,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 640,
+    "response_tokens": 149,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 641,
+    "response_tokens": 136,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 642,
+    "response_tokens": 104,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 643,
+    "response_tokens": 130,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 644,
+    "response_tokens": 122,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 645,
+    "response_tokens": 69,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 646,
+    "response_tokens": 92,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 647,
+    "response_tokens": 154,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 648,
+    "response_tokens": 84,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 649,
+    "response_tokens": 143,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 650,
+    "response_tokens": 176,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 651,
+    "response_tokens": 512,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 652,
+    "response_tokens": 232,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 653,
+    "response_tokens": 113,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 654,
+    "response_tokens": 87,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 655,
+    "response_tokens": 83,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 656,
+    "response_tokens": 66,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 657,
+    "response_tokens": 149,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 658,
+    "response_tokens": 147,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 659,
+    "response_tokens": 237,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 660,
+    "response_tokens": 92,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 661,
+    "response_tokens": 109,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 662,
+    "response_tokens": 144,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 663,
+    "response_tokens": 91,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 664,
+    "response_tokens": 74,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 665,
+    "response_tokens": 108,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 666,
+    "response_tokens": 254,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 667,
+    "response_tokens": 50,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 668,
+    "response_tokens": 66,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 669,
+    "response_tokens": 115,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 670,
+    "response_tokens": 69,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 671,
+    "response_tokens": 135,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 672,
+    "response_tokens": 91,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 673,
+    "response_tokens": 72,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 674,
+    "response_tokens": 78,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 675,
+    "response_tokens": 166,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 676,
+    "response_tokens": 116,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 677,
+    "response_tokens": 71,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 678,
+    "response_tokens": 99,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 679,
+    "response_tokens": 99,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 680,
+    "response_tokens": 98,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 681,
+    "response_tokens": 92,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 682,
+    "response_tokens": 113,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 683,
+    "response_tokens": 103,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 684,
+    "response_tokens": 41,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 685,
+    "response_tokens": 104,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 686,
+    "response_tokens": 107,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 687,
+    "response_tokens": 237,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 688,
+    "response_tokens": 83,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 689,
+    "response_tokens": 512,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 690,
+    "response_tokens": 395,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 691,
+    "response_tokens": 93,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 692,
+    "response_tokens": 112,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 693,
+    "response_tokens": 105,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 694,
+    "response_tokens": 212,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 695,
+    "response_tokens": 40,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 696,
+    "response_tokens": 126,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 697,
+    "response_tokens": 197,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 698,
+    "response_tokens": 146,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 699,
+    "response_tokens": 55,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 700,
+    "response_tokens": 145,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 701,
+    "response_tokens": 233,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 702,
+    "response_tokens": 87,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 703,
+    "response_tokens": 139,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 704,
+    "response_tokens": 100,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 705,
+    "response_tokens": 51,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 706,
+    "response_tokens": 132,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 707,
+    "response_tokens": 84,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 708,
+    "response_tokens": 58,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 709,
+    "response_tokens": 114,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 710,
+    "response_tokens": 246,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 711,
+    "response_tokens": 94,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 712,
+    "response_tokens": 130,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 713,
+    "response_tokens": 71,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 714,
+    "response_tokens": 70,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 715,
+    "response_tokens": 111,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 716,
+    "response_tokens": 67,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 717,
+    "response_tokens": 134,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 718,
+    "response_tokens": 65,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 719,
+    "response_tokens": 77,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 720,
+    "response_tokens": 86,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 721,
+    "response_tokens": 338,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 722,
+    "response_tokens": 97,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 723,
+    "response_tokens": 72,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 724,
+    "response_tokens": 153,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 725,
+    "response_tokens": 188,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 726,
+    "response_tokens": 108,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 727,
+    "response_tokens": 265,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 728,
+    "response_tokens": 118,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 729,
+    "response_tokens": 137,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 730,
+    "response_tokens": 80,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 731,
+    "response_tokens": 193,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 732,
+    "response_tokens": 129,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 733,
+    "response_tokens": 74,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 734,
+    "response_tokens": 112,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 735,
+    "response_tokens": 149,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 736,
+    "response_tokens": 77,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 737,
+    "response_tokens": 96,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 738,
+    "response_tokens": 60,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 739,
+    "response_tokens": 138,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 740,
+    "response_tokens": 92,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 741,
+    "response_tokens": 111,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 742,
+    "response_tokens": 62,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 743,
+    "response_tokens": 132,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 744,
+    "response_tokens": 65,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 745,
+    "response_tokens": 142,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 746,
+    "response_tokens": 135,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 747,
+    "response_tokens": 82,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 748,
+    "response_tokens": 104,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 749,
+    "response_tokens": 84,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 750,
+    "response_tokens": 138,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 751,
+    "response_tokens": 118,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 752,
+    "response_tokens": 61,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 753,
+    "response_tokens": 143,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 754,
+    "response_tokens": 378,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 755,
+    "response_tokens": 74,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 756,
+    "response_tokens": 111,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 757,
+    "response_tokens": 212,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 758,
+    "response_tokens": 51,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 759,
+    "response_tokens": 102,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 760,
+    "response_tokens": 121,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 761,
+    "response_tokens": 146,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 762,
+    "response_tokens": 77,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 763,
+    "response_tokens": 86,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 764,
+    "response_tokens": 114,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 765,
+    "response_tokens": 104,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 766,
+    "response_tokens": 81,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 767,
+    "response_tokens": 86,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 768,
+    "response_tokens": 107,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 769,
+    "response_tokens": 163,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 770,
+    "response_tokens": 105,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 771,
+    "response_tokens": 212,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 772,
+    "response_tokens": 125,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 773,
+    "response_tokens": 89,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 774,
+    "response_tokens": 89,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 775,
+    "response_tokens": 97,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 776,
+    "response_tokens": 61,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 777,
+    "response_tokens": 125,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 778,
+    "response_tokens": 115,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 779,
+    "response_tokens": 177,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 780,
+    "response_tokens": 464,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 781,
+    "response_tokens": 64,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 782,
+    "response_tokens": 143,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 783,
+    "response_tokens": 142,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 784,
+    "response_tokens": 158,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 785,
+    "response_tokens": 163,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 786,
+    "response_tokens": 102,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 787,
+    "response_tokens": 137,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 788,
+    "response_tokens": 59,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 789,
+    "response_tokens": 81,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 790,
+    "response_tokens": 117,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 791,
+    "response_tokens": 90,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 792,
+    "response_tokens": 75,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 793,
+    "response_tokens": 112,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 794,
+    "response_tokens": 56,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 795,
+    "response_tokens": 129,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 796,
+    "response_tokens": 118,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 797,
+    "response_tokens": 128,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 798,
+    "response_tokens": 223,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 799,
+    "response_tokens": 73,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 800,
+    "response_tokens": 73,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 801,
+    "response_tokens": 86,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 802,
+    "response_tokens": 115,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 803,
+    "response_tokens": 127,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 804,
+    "response_tokens": 139,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 805,
+    "response_tokens": 70,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 806,
+    "response_tokens": 59,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 807,
+    "response_tokens": 114,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 808,
+    "response_tokens": 92,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 809,
+    "response_tokens": 93,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 810,
+    "response_tokens": 147,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 811,
+    "response_tokens": 158,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 812,
+    "response_tokens": 151,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 813,
+    "response_tokens": 118,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 814,
+    "response_tokens": 258,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 815,
+    "response_tokens": 81,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 816,
+    "response_tokens": 89,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 817,
+    "response_tokens": 36,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 818,
+    "response_tokens": 93,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 819,
+    "response_tokens": 106,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 820,
+    "response_tokens": 146,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 821,
+    "response_tokens": 110,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 822,
+    "response_tokens": 74,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 823,
+    "response_tokens": 152,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 824,
+    "response_tokens": 71,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 825,
+    "response_tokens": 123,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 826,
+    "response_tokens": 284,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 827,
+    "response_tokens": 166,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 828,
+    "response_tokens": 82,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 829,
+    "response_tokens": 125,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 830,
+    "response_tokens": 137,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 831,
+    "response_tokens": 237,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 832,
+    "response_tokens": 71,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 833,
+    "response_tokens": 107,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 834,
+    "response_tokens": 144,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 835,
+    "response_tokens": 194,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 836,
+    "response_tokens": 72,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 837,
+    "response_tokens": 85,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 838,
+    "response_tokens": 143,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 839,
+    "response_tokens": 132,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 840,
+    "response_tokens": 149,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 841,
+    "response_tokens": 87,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 842,
+    "response_tokens": 66,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 843,
+    "response_tokens": 79,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 844,
+    "response_tokens": 190,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 845,
+    "response_tokens": 93,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 846,
+    "response_tokens": 107,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 847,
+    "response_tokens": 164,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 848,
+    "response_tokens": 113,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 849,
+    "response_tokens": 69,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 850,
+    "response_tokens": 92,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 851,
+    "response_tokens": 58,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 852,
+    "response_tokens": 119,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 853,
+    "response_tokens": 145,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 854,
+    "response_tokens": 97,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 855,
+    "response_tokens": 212,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 856,
+    "response_tokens": 65,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 857,
+    "response_tokens": 136,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 858,
+    "response_tokens": 52,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 859,
+    "response_tokens": 120,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 860,
+    "response_tokens": 76,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 861,
+    "response_tokens": 179,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 862,
+    "response_tokens": 117,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 863,
+    "response_tokens": 173,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 864,
+    "response_tokens": 65,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 865,
+    "response_tokens": 67,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 866,
+    "response_tokens": 257,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 867,
+    "response_tokens": 60,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 868,
+    "response_tokens": 124,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 869,
+    "response_tokens": 85,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 870,
+    "response_tokens": 86,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 871,
+    "response_tokens": 148,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 872,
+    "response_tokens": 221,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 873,
+    "response_tokens": 73,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 874,
+    "response_tokens": 52,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 875,
+    "response_tokens": 111,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 876,
+    "response_tokens": 512,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 877,
+    "response_tokens": 123,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 878,
+    "response_tokens": 106,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 879,
+    "response_tokens": 76,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 880,
+    "response_tokens": 110,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 881,
+    "response_tokens": 66,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 882,
+    "response_tokens": 192,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 883,
+    "response_tokens": 105,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 884,
+    "response_tokens": 64,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 885,
+    "response_tokens": 111,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 886,
+    "response_tokens": 125,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 887,
+    "response_tokens": 65,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 888,
+    "response_tokens": 66,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 889,
+    "response_tokens": 85,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 890,
+    "response_tokens": 135,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 891,
+    "response_tokens": 90,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 892,
+    "response_tokens": 112,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 893,
+    "response_tokens": 89,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 894,
+    "response_tokens": 117,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 895,
+    "response_tokens": 75,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 896,
+    "response_tokens": 143,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 897,
+    "response_tokens": 97,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 898,
+    "response_tokens": 99,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 899,
+    "response_tokens": 61,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 900,
+    "response_tokens": 94,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 901,
+    "response_tokens": 144,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 902,
+    "response_tokens": 67,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 903,
+    "response_tokens": 142,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 904,
+    "response_tokens": 104,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 905,
+    "response_tokens": 96,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 906,
+    "response_tokens": 116,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 907,
+    "response_tokens": 76,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 908,
+    "response_tokens": 75,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 909,
+    "response_tokens": 122,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 910,
+    "response_tokens": 90,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 911,
+    "response_tokens": 130,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 912,
+    "response_tokens": 53,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 913,
+    "response_tokens": 190,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 914,
+    "response_tokens": 61,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 915,
+    "response_tokens": 69,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 916,
+    "response_tokens": 210,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 917,
+    "response_tokens": 62,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 918,
+    "response_tokens": 73,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 919,
+    "response_tokens": 78,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 920,
+    "response_tokens": 215,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 921,
+    "response_tokens": 111,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 922,
+    "response_tokens": 61,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 923,
+    "response_tokens": 149,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 924,
+    "response_tokens": 79,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 925,
+    "response_tokens": 126,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 926,
+    "response_tokens": 378,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 927,
+    "response_tokens": 208,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 928,
+    "response_tokens": 140,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 929,
+    "response_tokens": 75,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 930,
+    "response_tokens": 84,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 931,
+    "response_tokens": 81,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 932,
+    "response_tokens": 96,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 933,
+    "response_tokens": 78,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 934,
+    "response_tokens": 132,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 935,
+    "response_tokens": 246,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 936,
+    "response_tokens": 171,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 937,
+    "response_tokens": 142,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 938,
+    "response_tokens": 215,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 939,
+    "response_tokens": 177,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 940,
+    "response_tokens": 79,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 941,
+    "response_tokens": 94,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 942,
+    "response_tokens": 85,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 943,
+    "response_tokens": 99,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 944,
+    "response_tokens": 197,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 945,
+    "response_tokens": 197,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 946,
+    "response_tokens": 124,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 947,
+    "response_tokens": 88,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 948,
+    "response_tokens": 251,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 949,
+    "response_tokens": 72,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 950,
+    "response_tokens": 167,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 951,
+    "response_tokens": 127,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 952,
+    "response_tokens": 90,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 953,
+    "response_tokens": 117,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 954,
+    "response_tokens": 136,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 955,
+    "response_tokens": 129,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 956,
+    "response_tokens": 75,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 957,
+    "response_tokens": 52,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 958,
+    "response_tokens": 68,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 959,
+    "response_tokens": 118,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 960,
+    "response_tokens": 137,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 961,
+    "response_tokens": 97,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 962,
+    "response_tokens": 98,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 963,
+    "response_tokens": 156,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 964,
+    "response_tokens": 49,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 965,
+    "response_tokens": 131,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 966,
+    "response_tokens": 252,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 967,
+    "response_tokens": 136,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 968,
+    "response_tokens": 119,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 969,
+    "response_tokens": 190,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 970,
+    "response_tokens": 70,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 971,
+    "response_tokens": 106,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 972,
+    "response_tokens": 140,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 973,
+    "response_tokens": 116,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 974,
+    "response_tokens": 88,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 975,
+    "response_tokens": 100,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 976,
+    "response_tokens": 144,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 977,
+    "response_tokens": 105,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 978,
+    "response_tokens": 101,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 979,
+    "response_tokens": 185,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 980,
+    "response_tokens": 101,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 981,
+    "response_tokens": 103,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 982,
+    "response_tokens": 150,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 983,
+    "response_tokens": 102,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 984,
+    "response_tokens": 254,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 985,
+    "response_tokens": 79,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 986,
+    "response_tokens": 237,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 987,
+    "response_tokens": 166,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 988,
+    "response_tokens": 110,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 989,
+    "response_tokens": 76,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 990,
+    "response_tokens": 182,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 991,
+    "response_tokens": 92,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 992,
+    "response_tokens": 82,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 993,
+    "response_tokens": 181,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 994,
+    "response_tokens": 147,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 995,
+    "response_tokens": 95,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 996,
+    "response_tokens": 176,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 997,
+    "response_tokens": 64,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 998,
+    "response_tokens": 103,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 999,
+    "response_tokens": 166,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1000,
+    "response_tokens": 101,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1001,
+    "response_tokens": 112,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1002,
+    "response_tokens": 201,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1003,
+    "response_tokens": 134,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1004,
+    "response_tokens": 117,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1005,
+    "response_tokens": 115,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1006,
+    "response_tokens": 87,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1007,
+    "response_tokens": 53,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1008,
+    "response_tokens": 76,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1009,
+    "response_tokens": 187,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1010,
+    "response_tokens": 105,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1011,
+    "response_tokens": 384,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1012,
+    "response_tokens": 512,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1013,
+    "response_tokens": 216,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1014,
+    "response_tokens": 318,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1015,
+    "response_tokens": 101,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1016,
+    "response_tokens": 161,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1017,
+    "response_tokens": 177,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1018,
+    "response_tokens": 70,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1019,
+    "response_tokens": 137,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1020,
+    "response_tokens": 55,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1021,
+    "response_tokens": 229,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1022,
+    "response_tokens": 106,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1023,
+    "response_tokens": 67,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1024,
+    "response_tokens": 124,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1025,
+    "response_tokens": 77,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1026,
+    "response_tokens": 182,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1027,
+    "response_tokens": 182,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1028,
+    "response_tokens": 85,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1029,
+    "response_tokens": 231,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1030,
+    "response_tokens": 149,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1031,
+    "response_tokens": 132,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1032,
+    "response_tokens": 66,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1033,
+    "response_tokens": 163,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1034,
+    "response_tokens": 60,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1035,
+    "response_tokens": 290,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1036,
+    "response_tokens": 58,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1037,
+    "response_tokens": 133,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1038,
+    "response_tokens": 133,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1039,
+    "response_tokens": 130,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1040,
+    "response_tokens": 100,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1041,
+    "response_tokens": 123,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1042,
+    "response_tokens": 111,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1043,
+    "response_tokens": 83,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1044,
+    "response_tokens": 134,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1045,
+    "response_tokens": 127,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1046,
+    "response_tokens": 93,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1047,
+    "response_tokens": 207,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1048,
+    "response_tokens": 119,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1049,
+    "response_tokens": 88,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1050,
+    "response_tokens": 89,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1051,
+    "response_tokens": 54,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1052,
+    "response_tokens": 164,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1053,
+    "response_tokens": 110,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1054,
+    "response_tokens": 151,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1055,
+    "response_tokens": 46,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1056,
+    "response_tokens": 216,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1057,
+    "response_tokens": 127,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1058,
+    "response_tokens": 84,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1059,
+    "response_tokens": 84,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1060,
+    "response_tokens": 208,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1061,
+    "response_tokens": 94,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1062,
+    "response_tokens": 119,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1063,
+    "response_tokens": 116,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1064,
+    "response_tokens": 85,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1065,
+    "response_tokens": 122,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1066,
+    "response_tokens": 102,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1067,
+    "response_tokens": 162,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1068,
+    "response_tokens": 98,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1069,
+    "response_tokens": 147,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1070,
+    "response_tokens": 86,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1071,
+    "response_tokens": 64,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1072,
+    "response_tokens": 122,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1073,
+    "response_tokens": 128,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1074,
+    "response_tokens": 97,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1075,
+    "response_tokens": 140,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1076,
+    "response_tokens": 101,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1077,
+    "response_tokens": 116,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1078,
+    "response_tokens": 110,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1079,
+    "response_tokens": 373,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1080,
+    "response_tokens": 105,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1081,
+    "response_tokens": 54,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1082,
+    "response_tokens": 108,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1083,
+    "response_tokens": 76,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1084,
+    "response_tokens": 131,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1085,
+    "response_tokens": 66,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1086,
+    "response_tokens": 351,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1087,
+    "response_tokens": 108,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1088,
+    "response_tokens": 133,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1089,
+    "response_tokens": 66,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1090,
+    "response_tokens": 94,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1091,
+    "response_tokens": 67,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1092,
+    "response_tokens": 71,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1093,
+    "response_tokens": 186,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1094,
+    "response_tokens": 230,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1095,
+    "response_tokens": 107,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1096,
+    "response_tokens": 167,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1097,
+    "response_tokens": 90,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1098,
+    "response_tokens": 100,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1099,
+    "response_tokens": 106,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1100,
+    "response_tokens": 223,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1101,
+    "response_tokens": 58,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1102,
+    "response_tokens": 207,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1103,
+    "response_tokens": 189,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1104,
+    "response_tokens": 50,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1105,
+    "response_tokens": 455,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1106,
+    "response_tokens": 54,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1107,
+    "response_tokens": 512,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1108,
+    "response_tokens": 54,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1109,
+    "response_tokens": 137,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1110,
+    "response_tokens": 192,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1111,
+    "response_tokens": 170,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1112,
+    "response_tokens": 107,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1113,
+    "response_tokens": 94,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1114,
+    "response_tokens": 97,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1115,
+    "response_tokens": 116,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1116,
+    "response_tokens": 77,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1117,
+    "response_tokens": 79,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1118,
+    "response_tokens": 113,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1119,
+    "response_tokens": 89,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1120,
+    "response_tokens": 52,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1121,
+    "response_tokens": 67,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1122,
+    "response_tokens": 123,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1123,
+    "response_tokens": 58,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1124,
+    "response_tokens": 176,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1125,
+    "response_tokens": 73,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1126,
+    "response_tokens": 65,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1127,
+    "response_tokens": 81,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1128,
+    "response_tokens": 101,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1129,
+    "response_tokens": 75,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1130,
+    "response_tokens": 233,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1131,
+    "response_tokens": 185,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1132,
+    "response_tokens": 124,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1133,
+    "response_tokens": 171,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1134,
+    "response_tokens": 65,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1135,
+    "response_tokens": 101,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1136,
+    "response_tokens": 76,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1137,
+    "response_tokens": 71,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1138,
+    "response_tokens": 123,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1139,
+    "response_tokens": 177,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1140,
+    "response_tokens": 105,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1141,
+    "response_tokens": 123,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1142,
+    "response_tokens": 126,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1143,
+    "response_tokens": 51,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1144,
+    "response_tokens": 98,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1145,
+    "response_tokens": 116,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1146,
+    "response_tokens": 210,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1147,
+    "response_tokens": 119,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1148,
+    "response_tokens": 55,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1149,
+    "response_tokens": 83,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1150,
+    "response_tokens": 51,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1151,
+    "response_tokens": 55,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1152,
+    "response_tokens": 119,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1153,
+    "response_tokens": 105,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1154,
+    "response_tokens": 94,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1155,
+    "response_tokens": 70,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1156,
+    "response_tokens": 160,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1157,
+    "response_tokens": 71,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1158,
+    "response_tokens": 202,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1159,
+    "response_tokens": 193,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1160,
+    "response_tokens": 61,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1161,
+    "response_tokens": 257,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1162,
+    "response_tokens": 63,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1163,
+    "response_tokens": 56,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1164,
+    "response_tokens": 139,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1165,
+    "response_tokens": 152,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1166,
+    "response_tokens": 415,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1167,
+    "response_tokens": 80,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1168,
+    "response_tokens": 87,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1169,
+    "response_tokens": 114,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1170,
+    "response_tokens": 185,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1171,
+    "response_tokens": 149,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1172,
+    "response_tokens": 155,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1173,
+    "response_tokens": 123,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1174,
+    "response_tokens": 95,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1175,
+    "response_tokens": 188,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1176,
+    "response_tokens": 263,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1177,
+    "response_tokens": 147,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1178,
+    "response_tokens": 52,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1179,
+    "response_tokens": 117,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1180,
+    "response_tokens": 154,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1181,
+    "response_tokens": 113,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1182,
+    "response_tokens": 83,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1183,
+    "response_tokens": 125,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1184,
+    "response_tokens": 65,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1185,
+    "response_tokens": 135,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1186,
+    "response_tokens": 80,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1187,
+    "response_tokens": 180,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1188,
+    "response_tokens": 121,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1189,
+    "response_tokens": 94,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1190,
+    "response_tokens": 124,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1191,
+    "response_tokens": 94,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1192,
+    "response_tokens": 241,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1193,
+    "response_tokens": 73,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1194,
+    "response_tokens": 101,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1195,
+    "response_tokens": 128,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1196,
+    "response_tokens": 79,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1197,
+    "response_tokens": 100,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1198,
+    "response_tokens": 193,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1199,
+    "response_tokens": 133,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1200,
+    "response_tokens": 77,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1201,
+    "response_tokens": 91,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1202,
+    "response_tokens": 156,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1203,
+    "response_tokens": 85,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1204,
+    "response_tokens": 106,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1205,
+    "response_tokens": 140,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1206,
+    "response_tokens": 129,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1207,
+    "response_tokens": 78,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1208,
+    "response_tokens": 72,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1209,
+    "response_tokens": 139,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1210,
+    "response_tokens": 45,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1211,
+    "response_tokens": 74,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1212,
+    "response_tokens": 109,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1213,
+    "response_tokens": 215,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1214,
+    "response_tokens": 80,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1215,
+    "response_tokens": 120,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1216,
+    "response_tokens": 286,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1217,
+    "response_tokens": 224,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1218,
+    "response_tokens": 122,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1219,
+    "response_tokens": 512,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1220,
+    "response_tokens": 72,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1221,
+    "response_tokens": 71,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1222,
+    "response_tokens": 102,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1223,
+    "response_tokens": 106,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1224,
+    "response_tokens": 78,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1225,
+    "response_tokens": 223,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1226,
+    "response_tokens": 131,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1227,
+    "response_tokens": 95,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1228,
+    "response_tokens": 47,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1229,
+    "response_tokens": 78,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1230,
+    "response_tokens": 230,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1231,
+    "response_tokens": 106,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1232,
+    "response_tokens": 65,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1233,
+    "response_tokens": 130,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1234,
+    "response_tokens": 56,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1235,
+    "response_tokens": 104,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1236,
+    "response_tokens": 78,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1237,
+    "response_tokens": 52,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1238,
+    "response_tokens": 166,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1239,
+    "response_tokens": 164,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1240,
+    "response_tokens": 168,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1241,
+    "response_tokens": 177,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1242,
+    "response_tokens": 106,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1243,
+    "response_tokens": 298,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1244,
+    "response_tokens": 60,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1245,
+    "response_tokens": 174,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1246,
+    "response_tokens": 86,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1247,
+    "response_tokens": 101,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1248,
+    "response_tokens": 163,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1249,
+    "response_tokens": 197,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1250,
+    "response_tokens": 83,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1251,
+    "response_tokens": 88,
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1252,
+    "response_tokens": 80,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1253,
+    "response_tokens": 98,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1254,
+    "response_tokens": 154,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1255,
+    "response_tokens": 177,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1256,
+    "response_tokens": 67,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1257,
+    "response_tokens": 66,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1258,
+    "response_tokens": 158,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1259,
+    "response_tokens": 83,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1260,
+    "response_tokens": 66,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1261,
+    "response_tokens": 193,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1262,
+    "response_tokens": 124,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1263,
+    "response_tokens": 192,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1264,
+    "response_tokens": 213,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1265,
+    "response_tokens": 243,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1266,
+    "response_tokens": 106,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1267,
+    "response_tokens": 69,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1268,
+    "response_tokens": 113,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1269,
+    "response_tokens": 102,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1270,
+    "response_tokens": 199,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1271,
+    "response_tokens": 95,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1272,
+    "response_tokens": 129,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1273,
+    "response_tokens": 76,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1274,
+    "response_tokens": 117,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1275,
+    "response_tokens": 90,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1276,
+    "response_tokens": 180,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1277,
+    "response_tokens": 157,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1278,
+    "response_tokens": 60,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1279,
+    "response_tokens": 133,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1280,
+    "response_tokens": 57,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1281,
+    "response_tokens": 62,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1282,
+    "response_tokens": 104,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1283,
+    "response_tokens": 152,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1284,
+    "response_tokens": 135,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1285,
+    "response_tokens": 70,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1286,
+    "response_tokens": 94,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1287,
+    "response_tokens": 95,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1288,
+    "response_tokens": 131,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1289,
+    "response_tokens": 114,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1290,
+    "response_tokens": 139,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1291,
+    "response_tokens": 49,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1292,
+    "response_tokens": 105,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1293,
+    "response_tokens": 67,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1294,
+    "response_tokens": 251,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1295,
+    "response_tokens": 217,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1296,
+    "response_tokens": 104,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1297,
+    "response_tokens": 174,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1298,
+    "response_tokens": 285,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1299,
+    "response_tokens": 108,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1300,
+    "response_tokens": 113,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1301,
+    "response_tokens": 236,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1302,
+    "response_tokens": 127,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1303,
+    "response_tokens": 229,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1304,
+    "response_tokens": 84,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1305,
+    "response_tokens": 112,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1306,
+    "response_tokens": 85,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1307,
+    "response_tokens": 105,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1308,
+    "response_tokens": 60,
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "test_index": 1309,
+    "response_tokens": 106,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1310,
+    "response_tokens": 168,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1311,
+    "response_tokens": 102,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1312,
+    "response_tokens": 105,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1313,
+    "response_tokens": 78,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1314,
+    "response_tokens": 159,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1315,
+    "response_tokens": 101,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1316,
+    "response_tokens": 73,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1317,
+    "response_tokens": 245,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "test_index": 1318,
+    "response_tokens": 52,
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  }
+]

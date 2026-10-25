@@ -1,0 +1,46 @@
+{
+  "settings": {
+    "impl": "naive",
+    "device": "cuda",
+    "lengths": [
+      256,
+      1024,
+      4096
+    ],
+    "head_dim": 128,
+    "batch": 4,
+    "repeats": 30,
+    "warmup": 10,
+    "causal": true,
+    "backward": false,
+    "compile": false,
+    "bf16": true,
+    "output": "runs/formal/remaining/a2/a2-naive-d128-fwd.json",
+    "sdpa_backend": "auto"
+  },
+  "torch": "2.11.0+cu130",
+  "device_name": "NVIDIA RTX PRO 6000 Blackwell Server Edition",
+  "results": [
+    {
+      "sequence_length": 256,
+      "median_ms": 0.03134400025010109,
+      "mean_ms": 0.03173226670672496,
+      "stdev_ms": 0.0007778438498418942,
+      "peak_allocated_bytes": 10616832
+    },
+    {
+      "sequence_length": 1024,
+      "median_ms": 0.05774400010704994,
+      "mean_ms": 0.057924266532063486,
+      "stdev_ms": 0.0029964353948012125,
+      "peak_allocated_bytes": 29491200
+    },
+    {
+      "sequence_length": 4096,
+      "median_ms": 1.0262399911880493,
+      "mean_ms": 1.0258165319760641,
+      "stdev_ms": 0.002467672408241008,
+      "peak_allocated_bytes": 306315264
+    }
+  ]
+}

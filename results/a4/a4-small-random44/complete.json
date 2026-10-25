@@ -1,0 +1,10 @@
+{
+  "step": 600,
+  "early_stopped": false,
+  "selection": {
+    "step": 400,
+    "value": 5.8707937510606385,
+    "file": "best-step-400.pt",
+    "bad_evaluations": 4
+  }
+}

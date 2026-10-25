@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.cache/
+*.egg-info/
+build/
+dist/
+data/
+models/
+runs/
+assets/
+src/cs336_alignment/prompts/
+requirements-server-lock.txt
+*.pt
+*.safetensors
+.env

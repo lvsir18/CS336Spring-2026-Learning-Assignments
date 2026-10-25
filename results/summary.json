@@ -1,0 +1,49 @@
+{
+  "test": {
+    "sft": {
+      "correct": 330,
+      "total": 1319,
+      "accuracy": 0.25018953752843065
+    },
+    "dpo": {
+      "correct": 357,
+      "total": 1319,
+      "accuracy": 0.27065959059893857
+    },
+    "rl": {
+      "correct": 476,
+      "total": 1319,
+      "accuracy": 0.36087945413191813
+    }
+  },
+  "comparisons": {
+    "sft_to_dpo": {
+      "gained": 168,
+      "lost": 141,
+      "delta_pp": 2.047005307050796,
+      "paired_bootstrap_95_ci_pp": [
+        -0.6065200909780136,
+        4.624715693707354
+      ]
+    },
+    "sft_to_rl": {
+      "gained": 248,
+      "lost": 102,
+      "delta_pp": 11.068991660348749,
+      "paired_bootstrap_95_ci_pp": [
+        8.339651250947687,
+        13.722517058377559
+      ]
+    },
+    "dpo_to_rl": {
+      "gained": 230,
+      "lost": 111,
+      "delta_pp": 9.021986353297953,
+      "paired_bootstrap_95_ci_pp": [
+        6.292645943896892,
+        11.677407126611042
+      ]
+    }
+  },
+  "bootstrap_scope": "Paired question resampling conditional on fixed trained models and generated outputs; excludes training and sampling seed uncertainty."
+}
